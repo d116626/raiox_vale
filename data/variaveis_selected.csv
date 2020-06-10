@@ -1,999 +1,999 @@
-variavel,tipo
-Abacate - Produção,agro
-Abacate - Valor da Produção,agro
-Abacate - Área Colhida,agro
-Abacaxi - Produção,agro
-Abacaxi - Valor da Produção,agro
-Abacaxi - Área Colhida,agro
-Abastecimento de Água - Nível de Atendimento - Censo Demográfico,agro
-Abastecimento de Água dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,agro
-Agências Bancárias,agro
-Algodão Herbáceo (Em Caroço) - Produção,agro
-Algodão Herbáceo (Em Caroço) - Valor da Produção,agro
-Algodão Herbáceo (Em Caroço) - Área Colhida,agro
-Alho - Produção,agro
-Alho - Valor da Produção,agro
-Alho - Área Colhida,agro
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao
-Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao
-Amendoim (Em Casca) - Produção,agro
-Amendoim (Em Casca) - Valor da Produção,agro
-Amendoim (Em Casca) - Área Colhida,agro
-Arrecadação Municipal de Contribuições de Melhoria,economico
-Arrecadação de IPTU,economico
-Arrecadação de ISS,economico
-Arrecadação de ITBI,economico
-Arroz (Em Casca) - Produção,agro
-Arroz (Em Casca) - Valor da Produção,agro
-Arroz (Em Casca) - Área Colhida,agro
-Auxiliares de Creche com Ensino Médio Completo,educacao
-Auxiliares de Creche com Ensino Médio Completo - Rede Privada,educacao
-Auxiliares de Creche com Ensino Médio Completo - Redes Pública e Conveniada,educacao
-Auxiliares de Enfermagem Registrados no COREN/SP,saude
-Aveia - Produção,agro
-Aveia - Valor da Produção,agro
-Aveia - Área Colhida,agro
-Banana (Cacho) - Produção,agro
-Banana (Cacho) - Valor da Produção,agro
-Banana (Cacho) - Área Colhida,agro
-Batata-Doce - Produção,agro
-Batata-Doce - Valor da Produção,agro
-Batata-Doce - Área Colhida,agro
-Batata-Inglesa - Produção,agro
-Batata-Inglesa - Valor da Produção,agro
-Batata-Inglesa - Área Colhida,agro
-Borracha (Látex Coagulado) - Produção,agro
-Borracha (Látex Coagulado) - Valor da Produção,agro
-Borracha (Látex Coagulado) - Área Colhida,agro
-Bovinos - Rebanho,agro
-Bubalinos - Rebanho,agro
-Café (Em Grão) - Produção,agro
-Café (Em Grão) - Valor da Produção,agro
-Café (Em Grão) - Área Colhida,agro
-Cana-de-Açúcar - Produção,agro
-Cana-de-Açúcar - Valor da Produção,agro
-Cana-de-Açúcar - Área Colhida,agro
-Caprinos - Rebanho,agro
-Caqui - Produção,agro
-Caqui - Valor da Produção,agro
-Caqui - Área Colhida,agro
-Carvão Vegetal - Produção,agro
-Carvão Vegetal - Valor da Produção,agro
-Casamentos,demografico
-Casamentos Homoafetivos,demografico
-Casamentos Homoafetivos Femininos,demografico
-Casamentos Homoafetivos Masculinos,demografico
-Casulos do Bicho-da-Seda - Produção,agro
-Casulos do Bicho-da-Seda - Valor da produção,agro
-Cebola - Produção,agro
-Cebola - Valor da Produção,agro
-Cebola - Área Colhida,agro
-Chá-da-Índia (Folha Verde) - Produção,agro
-Chá-da-Índia (Folha Verde) - Valor da Produção,agro
-Chá-da-Índia (Folha Verde) - Área Colhida,agro
-Coco-da-Baía - Produção,agro
-Coco-da-Baía - Valor da Produção,agro
-Coco-da-Baía - Área Colhida,agro
-Codornas - Rebanho,agro
-Coelhos - Rebanho [Série interrompida],agro
-Coleta de Lixo - Nível de Atendimento - Censo Demográfico,demografico
-Coleta de Lixo dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico
-Concluintes do Ensino Fundamental,educacao
-Concluintes do Ensino Fundamental - Rede Estadual,educacao
-Concluintes do Ensino Fundamental - Rede Municipal,educacao
-Concluintes do Ensino Fundamental - Rede Particular,educacao
-Concluintes do Ensino Fundamental - Rede Pública,educacao
-Concluintes do Ensino Médio,educacao
-Concluintes do Ensino Médio - Rede Estadual,educacao
-Concluintes do Ensino Médio - Rede Municipal,educacao
-Concluintes do Ensino Médio - Rede Particular,educacao
-Concluintes do Ensino Médio - Rede Pública,educacao
-Concluintes nos Cursos de Graduação Presencial - Rede Estadual,educacao
-Concluintes nos Cursos de Graduação Presencial - Rede Federal,educacao
-Concluintes nos Cursos de Graduação Presencial - Rede Municipal,educacao
-Concluintes nos Cursos de Graduação Presencial - Rede Privada,educacao
-Concluintes nos Cursos de Graduação Presencial - Total,educacao
-Concluintes nos Cursos de Graduação Presencial - Área de Agricultura e Veterinária,educacao
-"Concluintes nos Cursos de Graduação Presencial - Área de Ciências Sociais, Negócios e Direito",educacao
-"Concluintes nos Cursos de Graduação Presencial - Área de Ciências, Matemática e Computação",educacao
-Concluintes nos Cursos de Graduação Presencial - Área de Educação,educacao
-"Concluintes nos Cursos de Graduação Presencial - Área de Engenharia, Produção e Construção",educacao
-Concluintes nos Cursos de Graduação Presencial - Área de Humanidade e Artes,educacao
-Concluintes nos Cursos de Graduação Presencial - Área de Saúde e Bem-Estar Social,educacao
-Concluintes nos Cursos de Graduação Presencial - Área de Serviços,educacao
-Consumidores de Energia Elétrica - Comércio e Serviços,economico
-Consumidores de Energia Elétrica - Iluminação e Serviços Públicos e Outros,economico
-Consumidores de Energia Elétrica - Industrial,economico
-Consumidores de Energia Elétrica - Residencial,economico
-Consumidores de Energia Elétrica - Rural,economico
-Consumidores de Energia Elétrica - Total,economico
-Consumo de Energia Elétrica -  Comércio e Serviços,economico
-Consumo de Energia Elétrica - Iluminação e Serviços Públicos e Outros,economico
-Consumo de Energia Elétrica - Industrial,economico
-Consumo de Energia Elétrica - Residencial,economico
-Consumo de Energia Elétrica - Rural,economico
-Consumo de Energia Elétrica - Total,economico
-Crédito Rural Agricultura [Série interrompida],agro
-Crédito Rural Pecuária [Série interrompida],agro
-Crédito Rural [Série interrompida],agro
-Densidade Demográfica,demografico
-Dentistas Registrados no CRO/SP,saude
-Depósitos Totais [Série interrompida],economico
-Despesas Municipais com Amortização da Dívida (Interna e Externa),economico
-Despesas Municipais com Inativos e Pensionistas,economico
-Despesas Municipais com Inversões Financeiras,economico
-Despesas Municipais com Juros e Encargos da Dívida (Interna e Externa),economico
-Despesas Municipais com Material de Consumo,economico
-Despesas Municipais com Pessoal,economico
-Despesas Municipais com Pessoal e Encargos Sociais,economico
-Despesas Municipais com Serviços de Terceiros - Pessoa Física,economico
-Despesas Municipais com Serviços de Terceiros - Pessoa Jurídica,economico
-Despesas Municipais com Serviços de Terceiros e Encargos,economico
-Despesas Municipais com Vencimentos e Vantagens Fixas do Pessoal Civil,economico
-Despesas Municipais na Subfunção Alimentação e Nutrição,economico
-Despesas Municipais na Subfunção Assistência Hospitalar e Ambulatorial,economico
-Despesas Municipais na Subfunção Atenção Básica,economico
-Despesas Municipais na Subfunção Educação Especial,economico
-Despesas Municipais na Subfunção Educação Infantil,economico
-Despesas Municipais na Subfunção Ensino Fundamental,economico
-Despesas Municipais na Subfunção Ensino Médio,economico
-Despesas Municipais na Subfunção Suporte Profilático e Terapêutico,economico
-Despesas Municipais na Subfunção Vigilância Epidemiológica,economico
-Despesas Municipais na Subfunção Vigilância Sanitária,economico
-Distorção Idade-Série - Ensino Fundamental,educacao
-Distorção Idade-Série - Ensino Fundamental - Rede Estadual,educacao
-Distorção Idade-Série - Ensino Fundamental - Rede Municipal,educacao
-Distorção Idade-Série - Ensino Fundamental - Rede Privada,educacao
-Distorção Idade-Série - Ensino Fundamental - Rede Pública,educacao
-Distorção Idade-Série - Ensino Médio,educacao
-Distorção Idade-Série - Ensino Médio - Rede Estadual,educacao
-Distorção Idade-Série - Ensino Médio - Rede Municipal,educacao
-Distorção Idade-Série - Ensino Médio - Rede Privada,educacao
-Distorção Idade-Série - Ensino Médio - Rede Pública,educacao
-Docentes de Creche com Ensino Superior ou Magistério Completo,educacao
-Docentes de Creche com Ensino Superior ou Magistério Completo - Rede Privada,educacao
-Docentes de Creche com Ensino Superior ou Magistério Completo - Redes Pública e Conveniada,educacao
-Docentes de Pré-escola com Ensino Superior ou Magistério Completo,educacao
-Docentes de Pré-escola com Ensino Superior ou Magistério Completo - Rede Privada,educacao
-Docentes de Pré-escola com Ensino Superior ou Magistério Completo - Redes Pública e Conveniada,educacao
-Domicílios Particulares Permanentes,demografico
-Domicílios Particulares Permanentes Rurais - Censo Demográfico,demografico
-Domicílios Particulares Permanentes Urbanos - Censo Demográfico,demografico
-Domicílios Particulares Permanentes com Espaço Suficiente - PNAD,demografico
-Domicílios Particulares Permanentes com Iluminação Elétrica - PNAD,demografico
-Domicílios Particulares Permanentes com Infraestrutura Interna Adequada - PNAD,demografico
-Domicílios Particulares Permanentes com Renda per Capita até 1/2 Salário Mínimo - PNAD,demografico
-Domicílios Particulares Permanentes com Renda per Capita até 1/4 do Salário Mínimo - PNAD,demografico
-Domicílios Particulares com Renda per Capita até 1/2 Salário Mínimo - Censo Demográfico,demografico
-Domicílios Particulares com Renda per Capita até 1/4 do Salário Mínimo - Censo Demográfico,demografico
-Eleitores,demografico
-Eleitores Femininos com 16 e 17 Anos,demografico
-Eleitores Femininos com 18 a 24 Anos,demografico
-Eleitores Femininos com 25 a 34 Anos,demografico
-Eleitores Femininos com 35 a 44 Anos,demografico
-Eleitores Femininos com 45 a 59 Anos,demografico
-Eleitores Femininos com 60 a 69 Anos,demografico
-Eleitores Femininos com 70 Anos e Mais,demografico
-Eleitores Femininos ,demografico
-Eleitores Masculinos com 16 e 17 Anos,demografico
-Eleitores Masculinos com 18 a 24 Anos,demografico
-Eleitores Masculinos com 25 a 34 Anos,demografico
-Eleitores Masculinos com 35 a 44 Anos,demografico
-Eleitores Masculinos com 45 a 59 Anos,demografico
-Eleitores Masculinos com 60 a 69 Anos,demografico
-Eleitores Masculinos com 70 Anos e Mais,demografico
-Eleitores Masculinos ,demografico
-Eleitores com 16 e 17 Anos ,demografico
-Eleitores com 18 a 24 Anos ,demografico
-Eleitores com 25 a 34 Anos ,demografico
-Eleitores com 35 a 44 Anos ,demografico
-Eleitores com 45 a 59 Anos ,demografico
-Eleitores com 60 a 69 Anos ,demografico
-Eleitores com 70 Anos e Mais,demografico
-Eleitores sem Declaração de Sexo ,demografico
-Empregos Formais,economico
-"Empregos Formais da Administração Pública, Defesa e Seguridade Social",economico
-"Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico
-Empregos Formais da Confecção de Artigos do Vestuário e Acessórios,economico
-Empregos Formais da Construção,economico
-"Empregos Formais da Educação, Saúde Humana e Serviços Sociais",economico
-Empregos Formais da Fabricação de Bebidas,economico
-"Empregos Formais da Fabricação de Celulose, Papel e Produtos de Papel",economico
-"Empregos Formais da Fabricação de Coque, de Produtos Derivados do Petróleo e de Biocombustíveis",economico
-"Empregos Formais da Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos",economico
-Empregos Formais da Fabricação de Máquinas e Equipamentos,economico
-"Empregos Formais da Fabricação de Máquinas, Aparelhos e Materiais Elétricos",economico
-Empregos Formais da Fabricação de Móveis,economico
-"Empregos Formais da Fabricação de Outros Equipamentos de Transporte, exceto Veículos Automotores",economico
-Empregos Formais da Fabricação de Produtos Alimentícios,economico
-Empregos Formais da Fabricação de Produtos Diversos,economico
-Empregos Formais da Fabricação de Produtos Farmoquímicos e Farmacêuticos,economico
-Empregos Formais da Fabricação de Produtos Químicos,economico
-Empregos Formais da Fabricação de Produtos Têxteis,economico
-Empregos Formais da Fabricação de Produtos de Borracha e de Material Plástico,economico
-Empregos Formais da Fabricação de Produtos de Madeira,economico
-"Empregos Formais da Fabricação de Produtos de Metal, exceto Máquinas e Equipamentos",economico
-Empregos Formais da Fabricação de Produtos de Minerais Não Metálicos,economico
-Empregos Formais da Fabricação de Produtos do Fumo,economico
-"Empregos Formais da Fabricação de Veículos Automotores, Reboques e Carrocerias",economico
-Empregos Formais da Impressão e Reprodução de Gravações,economico
-Empregos Formais da Indústria,economico
-"Empregos Formais da Manutenção, Reparação e Instalação de Máquinas e Equipamentos",economico
-Empregos Formais da Metalurgia,economico
-"Empregos Formais da Preparação de Couros e Fabricação de Artefatos de Couro, Artigos para Viagem e Calçados",economico
-Empregos Formais das Atividades Administrativas e Serviços Complementares,economico
-"Empregos Formais das Atividades Financeiras, de Seguros e Serviços Relacionados",economico
-"Empregos Formais das Atividades Profissionais, Científicas e Técnicas",economico
-Empregos Formais das Indústrias Extrativas,economico
-Empregos Formais das Indústrias de Transformação,economico
-Empregos Formais das Pessoas com Ensino Fundamental Completo,economico
-Empregos Formais das Pessoas com Ensino Fundamental Incompleto,economico
-Empregos Formais das Pessoas com Ensino Médio Completo,economico
-Empregos Formais das Pessoas com Ensino Superior Completo,economico
-Empregos Formais das Pessoas de 25 a 39 Anos,economico
-Empregos Formais das Pessoas de 40 a 59 Anos,economico
-Empregos Formais das Pessoas de 60 Anos e Mais,economico
-Empregos Formais das Pessoas de até 24 Anos,economico
-Empregos Formais de Alojamento e Alimentação,economico
-"Empregos Formais de Eletricidade, Gás, Água, Esgoto e Atividades de Gestão de Resíduos e Descontaminação",economico
-Empregos Formais de Homens,economico
-Empregos Formais de Informação e Comunicação,economico
-Empregos Formais de Mulheres,economico
-"Empregos Formais de Transporte, Armazenagem e Correio",economico
-Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico
-"Empregos Formais do Comércio Atacadista, exceto Veículos Automotores e Motocicletas",economico
-"Empregos Formais do Comércio Varejista, exceto Veículos Automotores e Motocicletas",economico
-Empregos Formais do Comércio e Reparação de Veículos Automotores e Motocicletas,economico
-Empregos Formais dos Outros Serviços,economico
-Empregos Formais dos Serviços,economico
-Energia Elétrica - Nível de Atendimento - Censo Demográfico,economico
-Enfermeiros Registrados no COREN/SP,saude
-Equinos - Rebanho,agro
-Ervilha (Em grão) - Produção,agro
-Ervilha (Em grão) - Valor da Produção,agro
-Ervilha (Em grão) - Área Colhida,agro
-Esgoto Sanitário - Nível de Atendimento - Censo Demográfico,demografico
-Esgoto Sanitário dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico
-Esperança de Vida ao Nascer da População Feminina,saude
-Esperança de Vida ao Nascer da População Masculina,saude
-Esperança de Vida ao Nascer da População Total,saude
-Estabelecimentos Empregadores,economico
-"Estabelecimentos da Administração Pública, Defesa e Seguridade Social",economico
-"Estabelecimentos da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico
-Estabelecimentos da Confecção de Artigos do Vestuário e Acessórios,economico
-Estabelecimentos da Construção,economico
-"Estabelecimentos da Educação, Saúde Humana e Serviços Sociais",economico
-Estabelecimentos da Fabricação de Bebidas,economico
-"Estabelecimentos da Fabricação de Celulose, Papel e Produtos de Papel",economico
-"Estabelecimentos da Fabricação de Coque, de Produtos Derivados do Petróleo e de Biocombustíveis",economico
-"Estabelecimentos da Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos",economico
-Estabelecimentos da Fabricação de Máquinas e Equipamentos,economico
-"Estabelecimentos da Fabricação de Máquinas, Aparelhos e Materiais Elétricos",economico
-Estabelecimentos da Fabricação de Móveis,economico
-"Estabelecimentos da Fabricação de Outros Equipamentos de Transporte, exceto Veículos Automotores",economico
-Estabelecimentos da Fabricação de Produtos Alimentícios,economico
-Estabelecimentos da Fabricação de Produtos Diversos,economico
-Estabelecimentos da Fabricação de Produtos Farmoquímicos e Farmacêuticos,economico
-Estabelecimentos da Fabricação de Produtos Químicos,economico
-Estabelecimentos da Fabricação de Produtos Têxteis,economico
-Estabelecimentos da Fabricação de Produtos de Borracha e de Material Plástico,economico
-Estabelecimentos da Fabricação de Produtos de Madeira,economico
-"Estabelecimentos da Fabricação de Produtos de Metal, exceto Máquinas e Equipamentos",economico
-Estabelecimentos da Fabricação de Produtos de Minerais Não Metálicos,economico
-Estabelecimentos da Fabricação de Produtos do Fumo,economico
-"Estabelecimentos da Fabricação de Veículos Automotores, Reboques e Carrocerias",economico
-Estabelecimentos da Impressão e Reprodução de Gravações,economico
-Estabelecimentos da Indústria,economico
-Estabelecimentos da Indústria Extrativa,economico
-Estabelecimentos da Indústria de Transformação,economico
-"Estabelecimentos da Manutenção, Reparação e Instalação de Máquinas e Equipamentos",economico
-Estabelecimentos da Metalurgia,economico
-"Estabelecimentos da Preparação de Couros e Fabricação de Artefatos de Couro, Artigos para Viagem e Calçados",economico
-Estabelecimentos das Atividades Administrativas e Serviços Complementares,economico
-"Estabelecimentos das Atividades Financeiras, de Seguros e Serviços Relacionados",economico
-"Estabelecimentos das Atividades Profissionais, Científicas e Técnicas",economico
-Estabelecimentos de Alojamento e Alimentação,economico
-"Estabelecimentos de Eletricidade, Gás, Água, Esgoto e Atividades de Gestão de Resíduos e Descontaminação",economico
-Estabelecimentos de Informação e Comunicação,economico
-"Estabelecimentos de Transporte, Armazenagem e Correio",economico
-Estabelecimentos do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico
-"Estabelecimentos do Comércio Atacadista, exceto Veículos Automotores e Motocicletas",economico
-"Estabelecimentos do Comércio Varejista, exceto Veículos Automotores e Motocicletas",economico
-Estabelecimentos do Comércio e Reparação de Veículos Automotores e Motocicletas,economico
-Estabelecimentos dos Outros Serviços,economico
-Estabelecimentos dos Serviços,economico
-Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 350 e menor que 450 pontos - Nível 2,educacao
-Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 450 e menor que 500 pontos - Nível 3,educacao
-Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 500 e menor que 600 pontos - Nível 4,educacao
-Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 600 pontos - Nível 5,educacao
-Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) menor que 350 pontos - Nível 1,educacao
-Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 425 e menor ou igual a 525 pontos - Nível 2,educacao
-Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 525 e menor ou igual a 625 pontos - Nível 3,educacao
-Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 625 pontos - Nível 4,educacao
-Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) menor ou igual a 425 pontos - Nível 1,educacao
-Estudantes com proficiência em Matemática (ANA) maior que 425 e menor ou igual a 525 pontos - Nível 2,educacao
-Estudantes com proficiência em Matemática (ANA) maior que 525 e menor ou igual a 575 pontos - Nível 3,educacao
-Estudantes com proficiência em Matemática (ANA) maior que 575 pontos - Nível 4,educacao
-Estudantes com proficiência em Matemática (ANA) menor ou igual a 425 pontos - Nível 1,educacao
-Eucalipto (Folha) - Produção,agro
-Eucalipto (Folha) - Valor da Produção,agro
-Feijão (Em Grão) - Produção,agro
-Feijão (Em Grão) - Valor da Produção,agro
-Feijão (Em Grão) - Área Colhida,agro
-Figo - Produção,agro
-Figo - Valor da Produção,agro
-Figo - Área Colhida,agro
-Fonoaudiólogos registrados no CRFa/SP,saude
-Frota de Automóveis,demografico
-Frota de Caminhões,demografico
-Frota de Microônibus e Camionetas,
-Frota de Motocicletas e Assemelhados,demografico
-Frota de Reboques,demografico
-Frota de Veículos - Total,demografico
-Frota de Veículos de Outro Tipo,demografico
-Frota de Ônibus,demografico
-Fumo (Em Folha) - Produção,agro
-Fumo (Em Folha) - Valor da Produção,agro
-Fumo (Em Folha) - Área Colhida,agro
-Galinhas - Rebanho,agro
-Galináceos - Total - Rebanho,agro
-"Galos, Frangas, Frangos e Pintos - Rebanho [Série interrompida] [Série interrompida]",agro
-Gestações Pré-Termo,agro
-Girassol (Em grão) - Produção,agro
-Girassol (Em grão) - Valor da Produção,agro
-Girassol (Em grão) - Área Colhida,agro
-Goiaba - Produção,agro
-Goiaba - Valor da Produção,agro
-Goiaba - Área Colhida,agro
-Grau de Urbanização,agro
-IPRS - Dimensão Escolaridade (Edições de 2010 a 2016) [Série interrompida],economico
-IPRS - Dimensão Longevidade (Edições de 2010 a 2016) [Série interrompida],demografico
-IPRS - Dimensão Riqueza (Edições de 2010 a 2016) [Série interrompida],economico
-IPRS - Grupo (Edições de 2010 a 2016) [Série interrompida],demografico
-IPVS - Grupo 1 - Baixíssima Vulnerabilidade,demografico
-IPVS - Grupo 2 - Vulnerabilidade Muito Baixa,demografico
-IPVS - Grupo 3 - Vulnerabilidade Baixa,demografico
-IPVS - Grupo 4 - Vulnerabilidade Média (Urbanos),demografico
-IPVS - Grupo 5 - Vulnerabilidade Alta (Urbanos),demografico
-IPVS - Grupo 6 - Vulnerabilidade Muito Alta (Aglomerados Subnormais Urbanos),demografico
-IPVS - Grupo 7 - Vulnerabilidade Alta (Rurais),demografico
-Idade Média das Mulheres ao Casar,demografico
-Idade Média dos Homens ao Casar,demografico
-Impostos sobre Produtos Líquidos de Subsídios,economico
-Impostos sobre Produtos Líquidos de Subsídios (Versão Anterior) [Série interrompida],economico
-Laranja - Produção,agro
-Laranja - Valor da Produção,agro
-Laranja - Área Colhida,agro
-Leite - Produção,agro
-Leite - Valor da Produção,agro
-Leitos SUS,agro
-Leitos de Internação,agro
-Lenha - Produção,agro
-Lenha - Valor da Produção,agro
-Limão - Produção,agro
-Limão - Valor da Produção,agro
-Limão - Área Colhida,agro
-Madeira em Tora para Outros Fins (exceto Papel e Celulose) - Produção,agro
-Madeira em Tora para Outros Fins (exceto Papel e Celulose) - Valor da Produção,agro
-Madeira em Tora para Papel e Celulose - Produção,agro
-Madeira em Tora para Papel e Celulose - Valor da Produção,agro
-Mamona (Baga) - Produção,agro
-Mamona (Baga) - Valor da Produção,agro
-Mamona (Baga) - Área Colhida,agro
-Mamão - Produção,agro
-Mamão - Valor da Produção,agro
-Mamão - Área Colhida,agro
-Mandioca - Produção,agro
-Mandioca - Valor da Produção,agro
-Mandioca - Área Colhida,agro
-Manga - Produção,agro
-Manga - Valor da Produção,agro
-Manga - Área Colhida,agro
-Maracujá - Produção,agro
-Maracujá - Valor da Produção,agro
-Maracujá - Área Colhida,agro
-Matrículas na Creche,educacao
-Matrículas na Creche - Rede Conveniada,educacao
-Matrículas na Creche - Rede Municipal,educacao
-Matrículas na Creche - Rede Particular,educacao
-Matrículas na Creche - Rede Privada exceto Conveniadas,educacao
-Matrículas na Creche - Redes Estadual e Federal,educacao
-Matrículas na Creche - Redes Pública e Conveniada,educacao
-Matrículas na Educação Especial,educacao
-Matrículas na Educação Especial - Rede Estadual,educacao
-Matrículas na Educação Especial - Rede Municipal,educacao
-Matrículas na Educação Especial - Rede Particular,educacao
-Matrículas na Educação Especial - Rede Pública,educacao
-Matrículas na Educação Especial Fundamental,educacao
-Matrículas na Educação Especial Fundamental - Rede Estadual,educacao
-Matrículas na Educação Especial Fundamental - Rede Municipal,educacao
-Matrículas na Educação Especial Fundamental - Rede Particular,educacao
-Matrículas na Educação Especial Fundamental - Rede Pública,educacao
-Matrículas na Educação Infantil,educacao
-Matrículas na Educação Infantil - Rede Municipal,educacao
-Matrículas na Educação Infantil - Rede Particular,educacao
-Matrículas na Educação de Jovens e Adultos (EJA) no Ensino Fundamental,educacao
-Matrículas na Educação de Jovens e Adultos (EJA) no Ensino Médio,educacao
-Matrículas na Pré-Escola - Rede Estadual,educacao
-Matrículas na Pré-Escola - Rede Particular,educacao
-Matrículas na Pré-escola,educacao
-Matrículas na Pré-escola - Rede Conveniada,educacao
-Matrículas na Pré-escola - Rede Municipal,educacao
-Matrículas na Pré-escola - Rede Privada exceto Conveniada,educacao
-Matrículas na Pré-escola - Redes Estadual e Federal,educacao
-Matrículas na Pré-escola - Redes Pública e Conveniada,educacao
-Matrículas no Ensino Fundamental,educacao
-Matrículas no Ensino Fundamental - Anos Finais,educacao
-Matrículas no Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Matrículas no Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Matrículas no Ensino Fundamental - Anos Finais - Rede Privada,educacao
-Matrículas no Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Matrículas no Ensino Fundamental - Anos Iniciais,educacao
-Matrículas no Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Matrículas no Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Matrículas no Ensino Fundamental - Anos Iniciais - Rede Privada,educacao
-Matrículas no Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Matrículas no Ensino Fundamental - Rede Estadual,educacao
-Matrículas no Ensino Fundamental - Rede Municipal,educacao
-Matrículas no Ensino Fundamental - Rede Privada,educacao
-Matrículas no Ensino Fundamental - Rede Pública,educacao
-"Matrículas no Ensino Fundamental de pessoas de 6 a 14 Anos, em Relação à População na mesma Faixa Etária",educacao
-Matrículas no Ensino Médio,educacao
-Matrículas no Ensino Médio - Rede Estadual,educacao
-Matrículas no Ensino Médio - Rede Municipal,educacao
-Matrículas no Ensino Médio - Rede Particular,educacao
-Matrículas no Ensino Médio - Rede Pública,educacao
-"Matrículas no Ensino Médio de pessoas de 15 a 17 Anos, em Relação à População na mesma Faixa Etária",educacao
-Matrículas nos Cursos de Graduação Presencial - Programas ou Cursos gerais,educacao
-Matrículas nos Cursos de Graduação Presencial - Rede Estadual,educacao
-Matrículas nos Cursos de Graduação Presencial - Rede Federal,educacao
-Matrículas nos Cursos de Graduação Presencial - Rede Municipal,educacao
-Matrículas nos Cursos de Graduação Presencial - Rede Privada,educacao
-Matrículas nos Cursos de Graduação Presencial - Total,educacao
-Matrículas nos Cursos de Graduação Presencial - Área de Agricultura e Veterinária,educacao
-"Matrículas nos Cursos de Graduação Presencial - Área de Ciências Sociais, Negócios e Direito",educacao
-"Matrículas nos Cursos de Graduação Presencial - Área de Ciências, Matemática e Computação",educacao
-Matrículas nos Cursos de Graduação Presencial - Área de Educação,educacao
-"Matrículas nos Cursos de Graduação Presencial - Área de Engenharia, Produção e Construção",educacao
-Matrículas nos Cursos de Graduação Presencial - Área de Humanidade e Artes,educacao
-Matrículas nos Cursos de Graduação Presencial - Área de Saúde e Bem-Estar Social,educacao
-Matrículas nos Cursos de Graduação Presencial - Área de Serviços,educacao
-Maçã - Produção,agro
-Maçã - Valor da Produção,agro
-Maçã - Área Colhida,agro
-Mel de Abelha - Produção,agro
-Mel de Abelha - Valor da Produção,agro
-Melancia - Produção,agro
-Melancia - Valor da Produção,agro
-Melancia - Área Colhida,agro
-Melão - Produção,agro
-Melão - Valor da Produção,agro
-Melão - Área Colhida,agro
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Milho (Em Grão) - Produção,agro
-Milho (Em Grão) - Valor da Produção,agro
-Milho (Em Grão) - Área Colhida,agro
-Muares - Rebanho [Série interrompida],agro
-Mães que fizeram Sete e Mais Consultas de Pré-Natal,saude
-Média de Anos de Estudos da População de 15 a 64 Anos - PNAD,saude
-Médicos Registrados no CRM/SP,saude
-Nascidos Mortos,saude
-Nascidos Vivos (por local de residência),saude
-Nascidos Vivos de Mães com Menos de 18 Anos,saude
-"Nascimentos de Baixo Peso (menos de 2,5kg)",saude
-Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Estadual,educacao
-Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Municipal,educacao
-Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Pública,educacao
-Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Estadual,educacao
-Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Municipal,educacao
-Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Pública,educacao
-Nota de Língua Portuguesa no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) - Ensino Médio - Rede Estadual,educacao
-Nota de Matemática na Prova Brasil (5º ano) - Rede Estadual,educacao
-Nota de Matemática na Prova Brasil (5º ano) - Rede Municipal,educacao
-Nota de Matemática na Prova Brasil (5º ano) - Rede Pública,educacao
-Nota de Matemática na Prova Brasil (9º ano) - Rede Estadual,educacao
-Nota de Matemática na Prova Brasil (9º ano) - Rede Municipal,educacao
-Nota de Matemática na Prova Brasil (9º ano) - Rede Pública,educacao
-Nota de Matemática no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) - Ensino Médio - Rede Estadual,educacao
-Noz - Produção,agro
-Noz - Valor da Produção,agro
-Noz - Área Colhida,agro
-Número Médio de Alunos por Docente - Pré-escola,educacao
-Número Médio de Alunos por Docente - Pré-escola - Rede Privada exceto Conveniadas,educacao
-Número Médio de Alunos por Docente - Pré-escola - Redes Pública e Conveniada,educacao
-Número Médio de Alunos por Profissional - Creche,educacao
-Número Médio de Alunos por Profissional - Creche - Rede Privada exceto Conveniadas,educacao
-Número Médio de Alunos por Profissional - Creche - Redes Pública e Conveniada,educacao
-Número de Habitantes por Automóvel,demografico
-Número de Habitantes por Total de Veículos,demografico
-Ocorrências de Estupro,seguranca
-Ocorrências de Furto de Veículos,seguranca
-Ocorrências de Furtos,seguranca
-Ocorrências de Homicídio Doloso,seguranca
-Ocorrências de Outros Furtos,seguranca
-Ocorrências de Outros Roubos,seguranca
-Ocorrências de Roubo Seguido de Morte (Latrocínio),seguranca
-Ocorrências de Roubo a Bancos,seguranca
-Ocorrências de Roubo de Cargas,seguranca
-Ocorrências de Roubo de Veículos,seguranca
-Ocorrências de Roubos,seguranca
-Operações de Crédito [Série interrompida],economico
-Outras Despesas Municipais Correntes,economico
-Outras Receitas Municipais de Capital,economico
-Ovinos - Rebanho,agro
-Ovos de Codorna - Produção,agro
-Ovos de Codorna - Valor da Produção,agro
-Ovos de Galinha - Produção,agro
-Ovos de Galinha - Valor da Produção,agro
-PIB,economico
-PIB (Versão Anterior) [Série interrompida],economico
-PIB per Capita,economico
-PIB per Capita (Versão Anterior) [Série interrompida],economico
-Palmito - Produção,agro
-Palmito - Valor da Produção,agro
-Palmito - Área Colhida,agro
-Participação da Administração Pública no Total do Valor Adicionado,economico
-Participação da Administração Pública no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico
-Participação da Agropecuária no Total do Valor Adicionado,economico
-Participação da Agropecuária no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico
-Participação da Indústria no Total do Valor Adicionado,economico
-Participação da Indústria no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico
-Participação dos Casamentos Homoafetivos Femininos no Total de Casamentos,economico
-Participação dos Casamentos Homoafetivos Masculinos no Total de Casamentos,economico
-Participação dos Casamentos Homoafetivos no Total de Casamentos,economico
-"Participação dos Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura no Total de Empregos Formais",economico
-Participação dos Empregos Formais da Construção no Total de Empregos Formais,economico
-Participação dos Empregos Formais da Indústria no Total de Empregos Formais,economico
-Participação dos Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas no Total de Empregos Formais,economico
-Participação dos Empregos Formais dos Serviços no Total de Empregos Formais,economico
-Participação dos Serviços no Total do Valor Adicionado,economico
-Participação dos Serviços no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico
-Participação nas Exportações do Estado,economico
-Participação no PIB do Estado,economico
-Participação no PIB do Estado (Versão Anterior) [Série interrompida],economico
-Partos Cesáreos,saude
-Pera - Produção,agro
-Pera - Valor da Produção,agro
-Pera - Área Colhida,agro
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento Maior que 10 Salários Mínimos - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 1 a 2 Salários Mínimos - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 1/2 a 1 Salário Mínimo - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 2 a 3 Salários Mínimos - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 3 a 5 Salários Mínimos - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 5 a 10 Salários Mínimos - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de até 1/2 Salário Mínimo - Censo Demográfico,demografico
-Pessoas Responsáveis pelos Domicílios Particulares Permanentes sem Rendimento - Censo Demográfico,demografico
-População,demografico
-População Amarela - Censo Demográfico,demografico
-População Branca - Censo Demográfico,demografico
-População Feminina,demografico
-População Feminina de 0 a 4 Anos,demografico
-População Feminina de 10 a 14 Anos,demografico
-População Feminina de 15 a 19 Anos,demografico
-População Feminina de 20 a 24 Anos,demografico
-População Feminina de 25 a 29 Anos,demografico
-População Feminina de 30 a 34 Anos,demografico
-População Feminina de 35 a 39 Anos,demografico
-População Feminina de 40 a 44 Anos,demografico
-População Feminina de 45 a 49 Anos,demografico
-População Feminina de 5 a 9 Anos,demografico
-População Feminina de 50 a 54 Anos,demografico
-População Feminina de 55 a 59 Anos,demografico
-População Feminina de 60 a 64 Anos,demografico
-População Feminina de 65 a 69 Anos,demografico
-População Feminina de 70 a 74 Anos,demografico
-População Feminina de 75 Anos e Mais,demografico
-População Indígena - Censo Demográfico,demografico
-População Masculina,demografico
-População Masculina de 0 a 4 Anos,demografico
-População Masculina de 10 a 14 Anos,demografico
-População Masculina de 15 a 19 Anos,demografico
-População Masculina de 20 a 24 Anos,demografico
-População Masculina de 25 a 29 Anos,demografico
-População Masculina de 30 a 34 Anos,demografico
-População Masculina de 35 a 39 Anos,demografico
-População Masculina de 40 a 44 Anos,demografico
-População Masculina de 45 a 49 Anos,demografico
-População Masculina de 5 a 9 Anos,demografico
-População Masculina de 50 a 54 Anos,demografico
-População Masculina de 55 a 59 Anos,demografico
-População Masculina de 60 a 64 Anos,demografico
-População Masculina de 65 a 69 Anos,demografico
-População Masculina de 70 a 74 Anos,demografico
-População Masculina de 75 Anos e Mais,demografico
-População Parda - Censo Demográfico,demografico
-População Preta - Censo Demográfico,demografico
-População Rural,demografico
-População Urbana,demografico
-População com 60 Anos e Mais,demografico
-População com Menos de 15 Anos,demografico
-População de 0 a 3 Anos,demografico
-População de 0 a 4 Anos,demografico
-População de 10 a 14 Anos,demografico
-População de 11 a 14 Anos,demografico
-População de 15 Anos e Mais com Menos de 4 Anos de Estudo - Censo Demográfico,demografico
-População de 15 a 17 Anos,demografico
-População de 15 a 17 Anos com pelo Menos Ensino Fundamental Completo - Censo Demográfico,demografico
-População de 15 a 19 Anos,demografico
-População de 18 a 19 Anos,demografico
-População de 18 a 24 Anos com Ensino Médio Completo - PNAD,demografico
-População de 18 a 24 Anos com pelo Menos Ensino Fundamental Completo - Censo Demográfico,demografico
-População de 18 a 24 Anos com pelo Menos Ensino Médio Completo - Censo Demográfico,demografico
-População de 20 a 24 Anos,demografico
-População de 25 Anos e Mais com Menos de 8 Anos de Estudo - PNAD,demografico
-População de 25 Anos e Mais com pelo Menos Ensino Médio Completo - Censo Demográfico,demografico
-População de 25 Anos e Mais com pelo Menos Ensino Superior Completo - Censo Demográfico,demografico
-População de 25 a 29 Anos,demografico
-População de 30 a 34 Anos,demografico
-População de 35 a 39 Anos,demografico
-População de 4 a 6 Anos,demografico
-População de 40 a 44 Anos,demografico
-População de 45 a 49 Anos,demografico
-População de 5 a 9 Anos,demografico
-População de 50 a 54 Anos,demografico
-População de 55 a 59 Anos,demografico
-População de 6 Anos,demografico
-População de 60 a 64 Anos,demografico
-População de 65 a 69 Anos,demografico
-População de 7 a 10 Anos,demografico
-População de 70 a 74 Anos,demografico
-População de 75 Anos e Mais,demografico
-Psicólogos Registrados no CRP - 6ª Região,saude
-Pêssego - Produção,agro
-Pêssego - Valor da Produção,agro
-Pêssego - Área Colhida,agro
-Razão de Sexos,demografico
-Receita Municipal - Demais Transferências Correntes,economico
-Receita Municipal - IRRF,economico
-Receita Municipal Patrimonial,economico
-Receita Municipal Própria,economico
-Receita Municipal de Atividades Diversas,economico
-Receita Municipal de Contribuições,economico
-Receita Municipal por Transferências Correntes Intergovernamentais [Série interrompida],economico
-Receita Municipal por Transferências Correntes [Série interrompida],economico
-Receita Municipal por Transferências Correntes dos Municípios,economico
-Receita Municipal por Transferências Multigovernamentais do Fundeb (Antigo Fundef),economico
-Receita Municipal por Transferências da Cota-Parte do FPM [Série interrompida],economico
-Receita Municipal por Transferências da Cota-Parte do ICMS [Série interrompida],economico
-Receita Municipal por Transferências da Cota-Parte do IPI - Estados Exportadores [Série interrompida],economico
-Receita Municipal por Transferências da Cota-Parte do IPVA [Série interrompida],economico
-Receita Municipal por Transferências da Cota-Parte do ITR [Série interrompida],economico
-Receita Municipal por Transferências de Convênios,economico
-Receita Municipal por Transferências de Recursos do FNAS - União,economico
-Receita Municipal por Transferências de Recursos do FNDE - União,economico
-Receita Municipal por Transferências de Recursos do SUS - União,economico
-Receitas Municipais com Alienação de Bens,economico
-Receitas Municipais com Amortização de Empréstimos,economico
-Receitas Municipais com Operações de Crédito,economico
-Renda Domiciliar per Capita Média dos Domicílios Particulares Permanentes - PNAD,economico
-Renda per Capita - Censo Demográfico,economico
-Rendimento Médio Mensal das Pessoas Responsáveis pelos Domicílios Particulares Permanentes - Censo Demográfico,economico
-Rendimento Médio do Total de Empregos Formais,economico
-"Rendimento Médio dos Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico
-Rendimento Médio dos Empregos Formais da Construção,economico
-Rendimento Médio dos Empregos Formais da Indústria,economico
-Rendimento Médio dos Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico
-Rendimento Médio dos Empregos Formais dos Serviços,economico
-Resina - Produção,agro
-Resina - Valor da Produção,agro
-Saldo Migratório Anual - Censo Demográfico,demografico
-Soja (Em Grão) - Produção,agro
-Soja (Em Grão) - Valor da Produção,agro
-Soja (Em Grão) - Área Colhida,agro
-Sorgo (Em Grão) - Produção,agro
-Sorgo (Em Grão) - Valor da Produção,agro
-Sorgo (Em Grão) - Área Colhida,agro
-Suínos - Rebanho,agro
-Tangerina - Produção,agro
-Tangerina - Valor da Produção,agro
-Tangerina - Área Colhida,agro
-Taxa Anual de Migração  - Censo Demográfico,demografico
-Taxa Geométrica de Crescimento Anual da População - 2000/2010,demografico
-Taxa Geométrica de Crescimento Anual da População - 2010/2020,demografico
-Taxa Geométrica de Crescimento Anual da População Rural - 2000/2010,demografico
-Taxa Geométrica de Crescimento Anual da População Rural - 2010/2020,demografico
-Taxa Geométrica de Crescimento Anual da População Urbana - 2000/2010,demografico
-Taxa Geométrica de Crescimento Anual da População Urbana - 2010/2020,demografico
-Taxa de Abandono do Ensino Fundamental,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Finais,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Privada,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Iniciais,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao
-Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Taxa de Abandono do Ensino Fundamental - Rede Estadual,educacao
-Taxa de Abandono do Ensino Fundamental - Rede Municipal,educacao
-Taxa de Abandono do Ensino Fundamental - Rede Particular,educacao
-Taxa de Abandono do Ensino Fundamental - Rede Pública,educacao
-Taxa de Abandono do Ensino Médio,educacao
-Taxa de Abandono do Ensino Médio - Rede Estadual,educacao
-Taxa de Abandono do Ensino Médio - Rede Municipal,educacao
-Taxa de Abandono do Ensino Médio - Rede Particular,educacao
-Taxa de Abandono do Ensino Médio - Rede Pública,educacao
-Taxa de Analfabetismo da População de 15 Anos e Mais - Censo Demográfico,educacao
-Taxa de Analfabetismo da População de 15 Anos e Mais - PNAD,educacao
-Taxa de Aprovação do Ensino Fundamental,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Finais,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Privada,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Iniciais,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao
-Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Taxa de Aprovação do Ensino Fundamental - Rede Estadual,educacao
-Taxa de Aprovação do Ensino Fundamental - Rede Municipal,educacao
-Taxa de Aprovação do Ensino Fundamental - Rede Particular,educacao
-Taxa de Aprovação do Ensino Fundamental - Rede Pública,educacao
-Taxa de Aprovação do Ensino Médio,educacao
-Taxa de Aprovação do Ensino Médio - Rede Estadual,educacao
-Taxa de Aprovação do Ensino Médio - Rede Municipal,educacao
-Taxa de Aprovação do Ensino Médio - Rede Particular,educacao
-Taxa de Aprovação do Ensino Médio - Rede Pública,educacao
-Taxa de Fecundidade Geral,saude
-Taxa de Mortalidade Geral (por local de residência),saude
-Taxa de Mortalidade Infantil,saude
-Taxa de Mortalidade Materna,saude
-Taxa de Mortalidade Neonatal,saude
-Taxa de Mortalidade Neonatal Precoce,saude
-Taxa de Mortalidade Neonatal Tardia,saude
-Taxa de Mortalidade Perinatal,saude
-Taxa de Mortalidade Pós Neonatal,saude
-Taxa de Mortalidade da População de 15 a 34 Anos,saude
-Taxa de Mortalidade da População de 60 Anos e Mais,saude
-Taxa de Mortalidade de Mulheres em Idade Fértil,saude
-Taxa de Mortalidade na Infância,saude
-Taxa de Mortalidade por AIDS,saude
-Taxa de Mortalidade por Acidentes de Transportes,saude
-Taxa de Mortalidade por Agressões,saude
-Taxa de Mortalidade por Causas Externas,saude
-Taxa de Mortalidade por Suicídio,saude
-Taxa de Natalidade,saude
-Taxa de Natimortalidade,saude
-Taxa de Nupcialidade,demografico
-Taxa de Nupcialidade da População de 15 Anos ou Mais,demografico
-Taxa de Reprovação do Ensino Fundamental,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Finais,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Privada,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Iniciais,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao
-Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Taxa de Reprovação do Ensino Fundamental - Rede Estadual,educacao
-Taxa de Reprovação do Ensino Fundamental - Rede Municipal,educacao
-Taxa de Reprovação do Ensino Fundamental - Rede Privada,educacao
-Taxa de Reprovação do Ensino Fundamental - Rede Pública,educacao
-Taxa de Reprovação do Ensino Médio,educacao
-Taxa de Reprovação do Ensino Médio - Rede Estadual,educacao
-Taxa de Reprovação do Ensino Médio - Rede Municipal,educacao
-Taxa de Reprovação do Ensino Médio - Rede Privada,educacao
-Taxa de Reprovação do Ensino Médio - Rede Pública,educacao
-Tomate - Produção,agro
-Tomate - Valor da Produção,agro
-Tomate - Área Colhida,agro
-Total da Receita Municipal,economico
-Total da Receita Municipal com Transferências de Capital,economico
-Total da Receita Municipal por Transferências Correntes da União [Série interrompida],economico
-Total da Receita Municipal por Transferências Correntes do Estado [Série interrompida],economico
-Total da Receita Tributária Municipal,economico
-Total de Arrecadação Municipal de Taxas,economico
-Total de Arrecadação de Impostos Municipais,economico
-Total de Deduções da Receita Municipal Corrente [Série interrompida],economico
-Total de Despesas Municipais,economico
-Total de Despesas Municipais - Administração,economico
-Total de Despesas Municipais - Agricultura e Organização Agrária,economico
-Total de Despesas Municipais - Assistência Social,economico
-Total de Despesas Municipais - Comunicações,economico
-Total de Despesas Municipais - Cultura,economico
-Total de Despesas Municipais - Defesa Nacional e Segurança Pública,economico
-Total de Despesas Municipais - Desporto e Lazer,economico
-Total de Despesas Municipais - Educação,economico
-Total de Despesas Municipais - Encargos Especiais,economico
-Total de Despesas Municipais - Energia,economico
-Total de Despesas Municipais - Gestão Ambiental,economico
-Total de Despesas Municipais - Habitação,economico
-"Total de Despesas Municipais - Indústria, Comércio e Serviços",economico
-Total de Despesas Municipais - Judiciário,economico
-Total de Despesas Municipais - Legislativo,economico
-Total de Despesas Municipais - Previdência Social,economico
-Total de Despesas Municipais - Saneamento,economico
-Total de Despesas Municipais - Saúde,economico
-Total de Despesas Municipais - Trabalho,economico
-Total de Despesas Municipais - Transporte,economico
-Total de Despesas Municipais - Urbanismo,economico
-Total de Despesas Municipais Correntes,economico
-Total de Despesas Municipais com Investimentos,economico
-Total de Despesas Municipais de Capital,economico
-Total de Despesas Municipais nas Demais Funções de Governo,economico
-Total de Despesas Municipais por Função,economico
-Total de Outras Receitas Municipais Correntes,economico
-Total de Receitas Municipais Correntes,economico
-Total de Receitas Municipais de Capital,economico
-Trigo (Em Grão) - Produção,agro
-Trigo (Em Grão) - Valor da Produção,agro
-Trigo (Em Grão) - Área Colhida,agro
-Triticale (Em Grão) - Produção,agro
-Triticale (Em Grão) - Valor da Produção,agro
-Triticale (Em Grão) - Área Colhida,agro
-Técnicos de Enfermagem Registrados no COREN/SP,saude
-Técnicos de Prótese Dentária Registrados no CRO/SP,saude
-Unidade de Gerenciamento de Recursos Hídricos (UGRHI) a que Pertence o Município,demografico
-Unidades de Atenção Básica de Saúde [Série interrompida],saude
-Urucum (Semente) - Produção,agro
-Urucum (Semente) - Valor da Produção,agro
-Urucum (Semente) - Área Colhida,agro
-Uva - Produção,agro
-Uva - Valor da Produção,agro
-Uva - Área Colhida,agro
-Vacas Ordenhadas,agro
-Valor Adicionado Fiscal - Outros [Série interrompida],economico
-Valor Adicionado Fiscal - Total,economico
-"Valor Adicionado Fiscal da Agricultura, Pecuária e Outros Produtos Animais [Série interrompida]",economico
-Valor Adicionado Fiscal da Indústria - Artigos de Borracha [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Bebidas [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Combustíveis [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Couros e Calçados [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Diversas [Série interrompida],economico
-"Valor Adicionado Fiscal da Indústria - Edição, Impressão e Gravações [Série interrompida]",economico
-Valor Adicionado Fiscal da Indústria - Eletrodomésticos [Série interrompida],economico
-"Valor Adicionado Fiscal da Indústria - Equipamentos Médicos, Óticos, de Automação e Precisão [Série interrompida]",economico
-Valor Adicionado Fiscal da Indústria - Extrativa [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Fumo [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Madeira [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Material Eletrônico e Equipamentos de Comunicações [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Material de Transporte - Montadoras e Autopeças [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Metalurgia Básica - Ferrosos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Metalurgia Básica - Não Ferrosos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Minerais Não Metálicos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Máquinas e Equipamentos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Máquinas para Escritório e Equipamentos de Informática [Série interrompida],economico
-"Valor Adicionado Fiscal da Indústria - Máquinas, Aparelhos e Materiais Elétricos [Série interrompida]",economico
-Valor Adicionado Fiscal da Indústria - Móveis [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Papel e Celulose [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos Alimentícios [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos Farmacêuticos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos Químicos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos de Metal [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos de Perfumaria e Cosméticos [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Produtos de Plástico [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Reciclagem [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Total [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Têxtil [Série interrompida],economico
-Valor Adicionado Fiscal da Indústria - Vestuário e Acessórios [Série interrompida],economico
-Valor Adicionado Fiscal do Comércio - Total [Série interrompida],economico
-Valor Adicionado Fiscal do Comércio Atacadista [Série interrompida],economico
-Valor Adicionado Fiscal do Comércio Varejista [Série interrompida],economico
-Valor Adicionado Fiscal dos Serviços [Série interrompida],economico
-Valor Adicionado Total,economico
-Valor Adicionado Total (Versão Anterior) [Série interrompida],economico
-Valor Adicionado da Administração Pública,economico
-Valor Adicionado da Administração Pública (Versão Anterior) [Série interrompida],economico
-Valor Adicionado da Agropecuária,economico
-Valor Adicionado da Agropecuária (Versão Anterior) [Série interrompida],economico
-Valor Adicionado dos Serviços,economico
-Valor Adicionado dos Serviços (Versão Anterior) [Série interrompida],economico
-Valor Adicionado na Indústria,economico
-Valor Adicionado na Indústria (Versão Anterior) [Série interrompida],economico
-Valor da Transformação Industrial – Bebidas,economico
-Valor da Transformação Industrial – Biocombustíveis,economico
-Valor da Transformação Industrial – Borracha e material plástico,economico
-Valor da Transformação Industrial – Celulose e produtos de papel,economico
-Valor da Transformação Industrial – Couros e artefatos de couros,economico
-Valor da Transformação Industrial – Derivados do petróleo,economico
-"Valor da Transformação Industrial – Equipamentos de informática, eletrônicos e ópticos",economico
-Valor da Transformação Industrial – Impressão e reprodução de gravações,economico
-Valor da Transformação Industrial – Metalurgia,economico
-Valor da Transformação Industrial – Minerais não metálicos,economico
-Valor da Transformação Industrial – Máquinas e equipamentos,economico
-"Valor da Transformação Industrial – Máquinas, aparelhos e materiais elétricos",economico
-Valor da Transformação Industrial – Móveis,economico
-Valor da Transformação Industrial – Outros equipamentos de transporte,economico
-Valor da Transformação Industrial – Produtos Têxteis,economico
-Valor da Transformação Industrial – Produtos alimentícios,economico
-Valor da Transformação Industrial – Produtos de madeira,economico
-Valor da Transformação Industrial – Produtos de metal,economico
-Valor da Transformação Industrial – Produtos farmoquímicos e farmacêuticos,economico
-Valor da Transformação Industrial – Produtos químicos,economico
-Valor da Transformação Industrial – Vestuário e acessórios,economico
-"Valor da Transformação Industrial – Veículos automotores, reboques e carrocerias",economico
-Valor das Exportações,economico
-Valor das Importações,economico
-Área,demografico
-Índice Paulista de Responsabilidade Social - IPRS - Dimensão Escolaridade,educacao
-Índice Paulista de Responsabilidade Social - IPRS - Dimensão Longevidade,demografico
-Índice Paulista de Responsabilidade Social - IPRS - Dimensão Riqueza,economico
-Índice Paulista de Responsabilidade Social - IPRS - Grupo,demografico
-Índice de Desenvolvimento Humano Municipal - IDHM,demografico
-Índice de Desenvolvimento Humano Municipal - IDHM - Ranking dos Municípios,demografico
-Índice de Desenvolvimento Humano Municipal - IDHM Educação,economico
-Índice de Desenvolvimento Humano Municipal - IDHM Longevidade,demografico
-Índice de Desenvolvimento Humano Municipal - IDHM Renda,economico
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Pública,educacao
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao
-Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Pública,educacao
-Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 5º ano,educacao
-Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 9º ano,educacao
-Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Médio,educacao
-Índice de Envelhecimento,demografico
-Índice de Gini do Rendimento Domiciliar Total dos Domicílios Particulares Permanentes - PNAD,economico
-Índice de Participação dos Municípios no ICMS,economico
-Óbitos Femininos de 15 a 49 Anos,seguranca
-Óbitos Fetais Mais Óbitos de Menores de 7 Dias,seguranca
-Óbitos Gerais (por local de residência),seguranca
-Óbitos Menores de 1 Ano,seguranca
-Óbitos Menores de 28 Dias,seguranca
-Óbitos Menores de 7 Dias,seguranca
-Óbitos da População de 15 a 34 Anos,seguranca
-Óbitos da População de 60 Anos e Mais,seguranca
-Óbitos de 28 Dias até 1 Ano,seguranca
-Óbitos de 7 até 27 Dias,seguranca
-Óbitos por AIDS,seguranca
-Óbitos por Acidentes de Transportes,seguranca
-Óbitos por Agressões,seguranca
-Óbitos por Causas Externas,seguranca
-"Óbitos por Complicação da Gravidez, Parto e Puerpério",seguranca
-Óbitos por Suicídio,seguranca
+variavel,tipo,portal
+Abacate - Produção,agro,
+Abacate - Valor da Produção,agro,
+Abacate - Área Colhida,agro,
+Abacaxi - Produção,agro,
+Abacaxi - Valor da Produção,agro,
+Abacaxi - Área Colhida,agro,
+Abastecimento de Água - Nível de Atendimento - Censo Demográfico,agro,
+Abastecimento de Água dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,agro,
+Agências Bancárias,agro,
+Algodão Herbáceo (Em Caroço) - Produção,agro,
+Algodão Herbáceo (Em Caroço) - Valor da Produção,agro,
+Algodão Herbáceo (Em Caroço) - Área Colhida,agro,
+Alho - Produção,agro,
+Alho - Valor da Produção,agro,
+Alho - Área Colhida,agro,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Abaixo do Básico na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Adequado na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Avançado na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Língua Portuguesa (9º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (5º ano) - Rede Pública,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Estadual,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Municipal,educacao,
+Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) - Rede Pública,educacao,
+Amendoim (Em Casca) - Produção,agro,
+Amendoim (Em Casca) - Valor da Produção,agro,
+Amendoim (Em Casca) - Área Colhida,agro,
+Arrecadação Municipal de Contribuições de Melhoria,economico,
+Arrecadação de IPTU,economico,
+Arrecadação de ISS,economico,
+Arrecadação de ITBI,economico,
+Arroz (Em Casca) - Produção,agro,
+Arroz (Em Casca) - Valor da Produção,agro,
+Arroz (Em Casca) - Área Colhida,agro,
+Auxiliares de Creche com Ensino Médio Completo,educacao,
+Auxiliares de Creche com Ensino Médio Completo - Rede Privada,educacao,
+Auxiliares de Creche com Ensino Médio Completo - Redes Pública e Conveniada,educacao,
+Auxiliares de Enfermagem Registrados no COREN/SP,saude,
+Aveia - Produção,agro,
+Aveia - Valor da Produção,agro,
+Aveia - Área Colhida,agro,
+Banana (Cacho) - Produção,agro,
+Banana (Cacho) - Valor da Produção,agro,
+Banana (Cacho) - Área Colhida,agro,
+Batata-Doce - Produção,agro,
+Batata-Doce - Valor da Produção,agro,
+Batata-Doce - Área Colhida,agro,
+Batata-Inglesa - Produção,agro,
+Batata-Inglesa - Valor da Produção,agro,
+Batata-Inglesa - Área Colhida,agro,
+Borracha (Látex Coagulado) - Produção,agro,
+Borracha (Látex Coagulado) - Valor da Produção,agro,
+Borracha (Látex Coagulado) - Área Colhida,agro,
+Bovinos - Rebanho,agro,
+Bubalinos - Rebanho,agro,
+Café (Em Grão) - Produção,agro,
+Café (Em Grão) - Valor da Produção,agro,
+Café (Em Grão) - Área Colhida,agro,
+Cana-de-Açúcar - Produção,agro,
+Cana-de-Açúcar - Valor da Produção,agro,
+Cana-de-Açúcar - Área Colhida,agro,
+Caprinos - Rebanho,agro,
+Caqui - Produção,agro,
+Caqui - Valor da Produção,agro,
+Caqui - Área Colhida,agro,
+Carvão Vegetal - Produção,agro,
+Carvão Vegetal - Valor da Produção,agro,
+Casamentos,demografico,
+Casamentos Homoafetivos,demografico,
+Casamentos Homoafetivos Femininos,demografico,
+Casamentos Homoafetivos Masculinos,demografico,
+Casulos do Bicho-da-Seda - Produção,agro,
+Casulos do Bicho-da-Seda - Valor da produção,agro,
+Cebola - Produção,agro,
+Cebola - Valor da Produção,agro,
+Cebola - Área Colhida,agro,
+Chá-da-Índia (Folha Verde) - Produção,agro,
+Chá-da-Índia (Folha Verde) - Valor da Produção,agro,
+Chá-da-Índia (Folha Verde) - Área Colhida,agro,
+Coco-da-Baía - Produção,agro,
+Coco-da-Baía - Valor da Produção,agro,
+Coco-da-Baía - Área Colhida,agro,
+Codornas - Rebanho,agro,
+Coelhos - Rebanho [Série interrompida],agro,
+Coleta de Lixo - Nível de Atendimento - Censo Demográfico,demografico,
+Coleta de Lixo dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico,
+Concluintes do Ensino Fundamental,educacao,1
+Concluintes do Ensino Fundamental - Rede Estadual,educacao,
+Concluintes do Ensino Fundamental - Rede Municipal,educacao,
+Concluintes do Ensino Fundamental - Rede Particular,educacao,
+Concluintes do Ensino Fundamental - Rede Pública,educacao,
+Concluintes do Ensino Médio,educacao,1
+Concluintes do Ensino Médio - Rede Estadual,educacao,
+Concluintes do Ensino Médio - Rede Municipal,educacao,
+Concluintes do Ensino Médio - Rede Particular,educacao,
+Concluintes do Ensino Médio - Rede Pública,educacao,
+Concluintes nos Cursos de Graduação Presencial - Rede Estadual,educacao,
+Concluintes nos Cursos de Graduação Presencial - Rede Federal,educacao,
+Concluintes nos Cursos de Graduação Presencial - Rede Municipal,educacao,
+Concluintes nos Cursos de Graduação Presencial - Rede Privada,educacao,
+Concluintes nos Cursos de Graduação Presencial - Total,educacao,
+Concluintes nos Cursos de Graduação Presencial - Área de Agricultura e Veterinária,educacao,
+"Concluintes nos Cursos de Graduação Presencial - Área de Ciências Sociais, Negócios e Direito",educacao,
+"Concluintes nos Cursos de Graduação Presencial - Área de Ciências, Matemática e Computação",educacao,
+Concluintes nos Cursos de Graduação Presencial - Área de Educação,educacao,
+"Concluintes nos Cursos de Graduação Presencial - Área de Engenharia, Produção e Construção",educacao,
+Concluintes nos Cursos de Graduação Presencial - Área de Humanidade e Artes,educacao,
+Concluintes nos Cursos de Graduação Presencial - Área de Saúde e Bem-Estar Social,educacao,
+Concluintes nos Cursos de Graduação Presencial - Área de Serviços,educacao,
+Consumidores de Energia Elétrica - Comércio e Serviços,economico,
+Consumidores de Energia Elétrica - Iluminação e Serviços Públicos e Outros,economico,
+Consumidores de Energia Elétrica - Industrial,economico,
+Consumidores de Energia Elétrica - Residencial,economico,
+Consumidores de Energia Elétrica - Rural,economico,
+Consumidores de Energia Elétrica - Total,economico,
+Consumo de Energia Elétrica -  Comércio e Serviços,economico,
+Consumo de Energia Elétrica - Iluminação e Serviços Públicos e Outros,economico,
+Consumo de Energia Elétrica - Industrial,economico,
+Consumo de Energia Elétrica - Residencial,economico,
+Consumo de Energia Elétrica - Rural,economico,
+Consumo de Energia Elétrica - Total,economico,
+Crédito Rural Agricultura [Série interrompida],agro,
+Crédito Rural Pecuária [Série interrompida],agro,
+Crédito Rural [Série interrompida],agro,
+Densidade Demográfica,demografico,
+Dentistas Registrados no CRO/SP,saude,
+Depósitos Totais [Série interrompida],economico,
+Despesas Municipais com Amortização da Dívida (Interna e Externa),economico,
+Despesas Municipais com Inativos e Pensionistas,economico,
+Despesas Municipais com Inversões Financeiras,economico,
+Despesas Municipais com Juros e Encargos da Dívida (Interna e Externa),economico,
+Despesas Municipais com Material de Consumo,economico,
+Despesas Municipais com Pessoal,economico,
+Despesas Municipais com Pessoal e Encargos Sociais,economico,
+Despesas Municipais com Serviços de Terceiros - Pessoa Física,economico,
+Despesas Municipais com Serviços de Terceiros - Pessoa Jurídica,economico,
+Despesas Municipais com Serviços de Terceiros e Encargos,economico,
+Despesas Municipais com Vencimentos e Vantagens Fixas do Pessoal Civil,economico,
+Despesas Municipais na Subfunção Alimentação e Nutrição,economico,
+Despesas Municipais na Subfunção Assistência Hospitalar e Ambulatorial,economico,
+Despesas Municipais na Subfunção Atenção Básica,economico,
+Despesas Municipais na Subfunção Educação Especial,economico,
+Despesas Municipais na Subfunção Educação Infantil,economico,
+Despesas Municipais na Subfunção Ensino Fundamental,economico,
+Despesas Municipais na Subfunção Ensino Médio,economico,
+Despesas Municipais na Subfunção Suporte Profilático e Terapêutico,economico,
+Despesas Municipais na Subfunção Vigilância Epidemiológica,economico,
+Despesas Municipais na Subfunção Vigilância Sanitária,economico,
+Distorção Idade-Série - Ensino Fundamental,educacao,
+Distorção Idade-Série - Ensino Fundamental - Rede Estadual,educacao,
+Distorção Idade-Série - Ensino Fundamental - Rede Municipal,educacao,
+Distorção Idade-Série - Ensino Fundamental - Rede Privada,educacao,
+Distorção Idade-Série - Ensino Fundamental - Rede Pública,educacao,
+Distorção Idade-Série - Ensino Médio,educacao,
+Distorção Idade-Série - Ensino Médio - Rede Estadual,educacao,
+Distorção Idade-Série - Ensino Médio - Rede Municipal,educacao,
+Distorção Idade-Série - Ensino Médio - Rede Privada,educacao,
+Distorção Idade-Série - Ensino Médio - Rede Pública,educacao,
+Docentes de Creche com Ensino Superior ou Magistério Completo,educacao,
+Docentes de Creche com Ensino Superior ou Magistério Completo - Rede Privada,educacao,
+Docentes de Creche com Ensino Superior ou Magistério Completo - Redes Pública e Conveniada,educacao,
+Docentes de Pré-escola com Ensino Superior ou Magistério Completo,educacao,
+Docentes de Pré-escola com Ensino Superior ou Magistério Completo - Rede Privada,educacao,
+Docentes de Pré-escola com Ensino Superior ou Magistério Completo - Redes Pública e Conveniada,educacao,
+Domicílios Particulares Permanentes,demografico,
+Domicílios Particulares Permanentes Rurais - Censo Demográfico,demografico,
+Domicílios Particulares Permanentes Urbanos - Censo Demográfico,demografico,
+Domicílios Particulares Permanentes com Espaço Suficiente - PNAD,demografico,
+Domicílios Particulares Permanentes com Iluminação Elétrica - PNAD,demografico,
+Domicílios Particulares Permanentes com Infraestrutura Interna Adequada - PNAD,demografico,
+Domicílios Particulares Permanentes com Renda per Capita até 1/2 Salário Mínimo - PNAD,demografico,
+Domicílios Particulares Permanentes com Renda per Capita até 1/4 do Salário Mínimo - PNAD,demografico,
+Domicílios Particulares com Renda per Capita até 1/2 Salário Mínimo - Censo Demográfico,demografico,
+Domicílios Particulares com Renda per Capita até 1/4 do Salário Mínimo - Censo Demográfico,demografico,
+Eleitores,demografico,
+Eleitores Femininos com 16 e 17 Anos,demografico,
+Eleitores Femininos com 18 a 24 Anos,demografico,
+Eleitores Femininos com 25 a 34 Anos,demografico,
+Eleitores Femininos com 35 a 44 Anos,demografico,
+Eleitores Femininos com 45 a 59 Anos,demografico,
+Eleitores Femininos com 60 a 69 Anos,demografico,
+Eleitores Femininos com 70 Anos e Mais,demografico,
+Eleitores Femininos ,demografico,
+Eleitores Masculinos com 16 e 17 Anos,demografico,
+Eleitores Masculinos com 18 a 24 Anos,demografico,
+Eleitores Masculinos com 25 a 34 Anos,demografico,
+Eleitores Masculinos com 35 a 44 Anos,demografico,
+Eleitores Masculinos com 45 a 59 Anos,demografico,
+Eleitores Masculinos com 60 a 69 Anos,demografico,
+Eleitores Masculinos com 70 Anos e Mais,demografico,
+Eleitores Masculinos ,demografico,
+Eleitores com 16 e 17 Anos ,demografico,
+Eleitores com 18 a 24 Anos ,demografico,
+Eleitores com 25 a 34 Anos ,demografico,
+Eleitores com 35 a 44 Anos ,demografico,
+Eleitores com 45 a 59 Anos ,demografico,
+Eleitores com 60 a 69 Anos ,demografico,
+Eleitores com 70 Anos e Mais,demografico,
+Eleitores sem Declaração de Sexo ,demografico,
+Empregos Formais,economico,
+"Empregos Formais da Administração Pública, Defesa e Seguridade Social",economico,
+"Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,
+Empregos Formais da Confecção de Artigos do Vestuário e Acessórios,economico,
+Empregos Formais da Construção,economico,
+"Empregos Formais da Educação, Saúde Humana e Serviços Sociais",economico,
+Empregos Formais da Fabricação de Bebidas,economico,
+"Empregos Formais da Fabricação de Celulose, Papel e Produtos de Papel",economico,
+"Empregos Formais da Fabricação de Coque, de Produtos Derivados do Petróleo e de Biocombustíveis",economico,
+"Empregos Formais da Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos",economico,
+Empregos Formais da Fabricação de Máquinas e Equipamentos,economico,
+"Empregos Formais da Fabricação de Máquinas, Aparelhos e Materiais Elétricos",economico,
+Empregos Formais da Fabricação de Móveis,economico,
+"Empregos Formais da Fabricação de Outros Equipamentos de Transporte, exceto Veículos Automotores",economico,
+Empregos Formais da Fabricação de Produtos Alimentícios,economico,
+Empregos Formais da Fabricação de Produtos Diversos,economico,
+Empregos Formais da Fabricação de Produtos Farmoquímicos e Farmacêuticos,economico,
+Empregos Formais da Fabricação de Produtos Químicos,economico,
+Empregos Formais da Fabricação de Produtos Têxteis,economico,
+Empregos Formais da Fabricação de Produtos de Borracha e de Material Plástico,economico,
+Empregos Formais da Fabricação de Produtos de Madeira,economico,
+"Empregos Formais da Fabricação de Produtos de Metal, exceto Máquinas e Equipamentos",economico,
+Empregos Formais da Fabricação de Produtos de Minerais Não Metálicos,economico,
+Empregos Formais da Fabricação de Produtos do Fumo,economico,
+"Empregos Formais da Fabricação de Veículos Automotores, Reboques e Carrocerias",economico,
+Empregos Formais da Impressão e Reprodução de Gravações,economico,
+Empregos Formais da Indústria,economico,
+"Empregos Formais da Manutenção, Reparação e Instalação de Máquinas e Equipamentos",economico,
+Empregos Formais da Metalurgia,economico,
+"Empregos Formais da Preparação de Couros e Fabricação de Artefatos de Couro, Artigos para Viagem e Calçados",economico,
+Empregos Formais das Atividades Administrativas e Serviços Complementares,economico,
+"Empregos Formais das Atividades Financeiras, de Seguros e Serviços Relacionados",economico,
+"Empregos Formais das Atividades Profissionais, Científicas e Técnicas",economico,
+Empregos Formais das Indústrias Extrativas,economico,
+Empregos Formais das Indústrias de Transformação,economico,
+Empregos Formais das Pessoas com Ensino Fundamental Completo,economico,
+Empregos Formais das Pessoas com Ensino Fundamental Incompleto,economico,
+Empregos Formais das Pessoas com Ensino Médio Completo,economico,
+Empregos Formais das Pessoas com Ensino Superior Completo,economico,
+Empregos Formais das Pessoas de 25 a 39 Anos,economico,
+Empregos Formais das Pessoas de 40 a 59 Anos,economico,
+Empregos Formais das Pessoas de 60 Anos e Mais,economico,
+Empregos Formais das Pessoas de até 24 Anos,economico,
+Empregos Formais de Alojamento e Alimentação,economico,
+"Empregos Formais de Eletricidade, Gás, Água, Esgoto e Atividades de Gestão de Resíduos e Descontaminação",economico,
+Empregos Formais de Homens,economico,
+Empregos Formais de Informação e Comunicação,economico,
+Empregos Formais de Mulheres,economico,
+"Empregos Formais de Transporte, Armazenagem e Correio",economico,
+Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,
+"Empregos Formais do Comércio Atacadista, exceto Veículos Automotores e Motocicletas",economico,
+"Empregos Formais do Comércio Varejista, exceto Veículos Automotores e Motocicletas",economico,
+Empregos Formais do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,
+Empregos Formais dos Outros Serviços,economico,
+Empregos Formais dos Serviços,economico,
+Energia Elétrica - Nível de Atendimento - Censo Demográfico,economico,
+Enfermeiros Registrados no COREN/SP,saude,
+Equinos - Rebanho,agro,
+Ervilha (Em grão) - Produção,agro,
+Ervilha (Em grão) - Valor da Produção,agro,
+Ervilha (Em grão) - Área Colhida,agro,
+Esgoto Sanitário - Nível de Atendimento - Censo Demográfico,demografico,
+Esgoto Sanitário dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico,
+Esperança de Vida ao Nascer da População Feminina,saude,
+Esperança de Vida ao Nascer da População Masculina,saude,
+Esperança de Vida ao Nascer da População Total,saude,
+Estabelecimentos Empregadores,economico,
+"Estabelecimentos da Administração Pública, Defesa e Seguridade Social",economico,
+"Estabelecimentos da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,
+Estabelecimentos da Confecção de Artigos do Vestuário e Acessórios,economico,
+Estabelecimentos da Construção,economico,
+"Estabelecimentos da Educação, Saúde Humana e Serviços Sociais",economico,
+Estabelecimentos da Fabricação de Bebidas,economico,
+"Estabelecimentos da Fabricação de Celulose, Papel e Produtos de Papel",economico,
+"Estabelecimentos da Fabricação de Coque, de Produtos Derivados do Petróleo e de Biocombustíveis",economico,
+"Estabelecimentos da Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos",economico,
+Estabelecimentos da Fabricação de Máquinas e Equipamentos,economico,
+"Estabelecimentos da Fabricação de Máquinas, Aparelhos e Materiais Elétricos",economico,
+Estabelecimentos da Fabricação de Móveis,economico,
+"Estabelecimentos da Fabricação de Outros Equipamentos de Transporte, exceto Veículos Automotores",economico,
+Estabelecimentos da Fabricação de Produtos Alimentícios,economico,
+Estabelecimentos da Fabricação de Produtos Diversos,economico,
+Estabelecimentos da Fabricação de Produtos Farmoquímicos e Farmacêuticos,economico,
+Estabelecimentos da Fabricação de Produtos Químicos,economico,
+Estabelecimentos da Fabricação de Produtos Têxteis,economico,
+Estabelecimentos da Fabricação de Produtos de Borracha e de Material Plástico,economico,
+Estabelecimentos da Fabricação de Produtos de Madeira,economico,
+"Estabelecimentos da Fabricação de Produtos de Metal, exceto Máquinas e Equipamentos",economico,
+Estabelecimentos da Fabricação de Produtos de Minerais Não Metálicos,economico,
+Estabelecimentos da Fabricação de Produtos do Fumo,economico,
+"Estabelecimentos da Fabricação de Veículos Automotores, Reboques e Carrocerias",economico,
+Estabelecimentos da Impressão e Reprodução de Gravações,economico,
+Estabelecimentos da Indústria,economico,
+Estabelecimentos da Indústria Extrativa,economico,
+Estabelecimentos da Indústria de Transformação,economico,
+"Estabelecimentos da Manutenção, Reparação e Instalação de Máquinas e Equipamentos",economico,
+Estabelecimentos da Metalurgia,economico,
+"Estabelecimentos da Preparação de Couros e Fabricação de Artefatos de Couro, Artigos para Viagem e Calçados",economico,
+Estabelecimentos das Atividades Administrativas e Serviços Complementares,economico,
+"Estabelecimentos das Atividades Financeiras, de Seguros e Serviços Relacionados",economico,
+"Estabelecimentos das Atividades Profissionais, Científicas e Técnicas",economico,
+Estabelecimentos de Alojamento e Alimentação,economico,
+"Estabelecimentos de Eletricidade, Gás, Água, Esgoto e Atividades de Gestão de Resíduos e Descontaminação",economico,
+Estabelecimentos de Informação e Comunicação,economico,
+"Estabelecimentos de Transporte, Armazenagem e Correio",economico,
+Estabelecimentos do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,
+"Estabelecimentos do Comércio Atacadista, exceto Veículos Automotores e Motocicletas",economico,
+"Estabelecimentos do Comércio Varejista, exceto Veículos Automotores e Motocicletas",economico,
+Estabelecimentos do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,
+Estabelecimentos dos Outros Serviços,economico,
+Estabelecimentos dos Serviços,economico,
+Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 350 e menor que 450 pontos - Nível 2,educacao,
+Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 450 e menor que 500 pontos - Nível 3,educacao,
+Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 500 e menor que 600 pontos - Nível 4,educacao,
+Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) maior ou igual a 600 pontos - Nível 5,educacao,
+Estudantes com proficiência em Escrita em Língua Portuguesa (ANA) menor que 350 pontos - Nível 1,educacao,
+Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 425 e menor ou igual a 525 pontos - Nível 2,educacao,
+Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 525 e menor ou igual a 625 pontos - Nível 3,educacao,
+Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) maior que 625 pontos - Nível 4,educacao,
+Estudantes com proficiência em Leitura em Língua Portuguesa (ANA) menor ou igual a 425 pontos - Nível 1,educacao,
+Estudantes com proficiência em Matemática (ANA) maior que 425 e menor ou igual a 525 pontos - Nível 2,educacao,
+Estudantes com proficiência em Matemática (ANA) maior que 525 e menor ou igual a 575 pontos - Nível 3,educacao,
+Estudantes com proficiência em Matemática (ANA) maior que 575 pontos - Nível 4,educacao,
+Estudantes com proficiência em Matemática (ANA) menor ou igual a 425 pontos - Nível 1,educacao,
+Eucalipto (Folha) - Produção,agro,
+Eucalipto (Folha) - Valor da Produção,agro,
+Feijão (Em Grão) - Produção,agro,
+Feijão (Em Grão) - Valor da Produção,agro,
+Feijão (Em Grão) - Área Colhida,agro,
+Figo - Produção,agro,
+Figo - Valor da Produção,agro,
+Figo - Área Colhida,agro,
+Fonoaudiólogos registrados no CRFa/SP,saude,
+Frota de Automóveis,demografico,
+Frota de Caminhões,demografico,
+Frota de Microônibus e Camionetas,,
+Frota de Motocicletas e Assemelhados,demografico,
+Frota de Reboques,demografico,
+Frota de Veículos - Total,demografico,
+Frota de Veículos de Outro Tipo,demografico,
+Frota de Ônibus,demografico,
+Fumo (Em Folha) - Produção,agro,
+Fumo (Em Folha) - Valor da Produção,agro,
+Fumo (Em Folha) - Área Colhida,agro,
+Galinhas - Rebanho,agro,
+Galináceos - Total - Rebanho,agro,
+"Galos, Frangas, Frangos e Pintos - Rebanho [Série interrompida] [Série interrompida]",agro,
+Gestações Pré-Termo,agro,
+Girassol (Em grão) - Produção,agro,
+Girassol (Em grão) - Valor da Produção,agro,
+Girassol (Em grão) - Área Colhida,agro,
+Goiaba - Produção,agro,
+Goiaba - Valor da Produção,agro,
+Goiaba - Área Colhida,agro,
+Grau de Urbanização,agro,
+IPRS - Dimensão Escolaridade (Edições de 2010 a 2016) [Série interrompida],economico,
+IPRS - Dimensão Longevidade (Edições de 2010 a 2016) [Série interrompida],demografico,
+IPRS - Dimensão Riqueza (Edições de 2010 a 2016) [Série interrompida],economico,
+IPRS - Grupo (Edições de 2010 a 2016) [Série interrompida],demografico,
+IPVS - Grupo 1 - Baixíssima Vulnerabilidade,demografico,
+IPVS - Grupo 2 - Vulnerabilidade Muito Baixa,demografico,
+IPVS - Grupo 3 - Vulnerabilidade Baixa,demografico,
+IPVS - Grupo 4 - Vulnerabilidade Média (Urbanos),demografico,
+IPVS - Grupo 5 - Vulnerabilidade Alta (Urbanos),demografico,
+IPVS - Grupo 6 - Vulnerabilidade Muito Alta (Aglomerados Subnormais Urbanos),demografico,
+IPVS - Grupo 7 - Vulnerabilidade Alta (Rurais),demografico,
+Idade Média das Mulheres ao Casar,demografico,
+Idade Média dos Homens ao Casar,demografico,
+Impostos sobre Produtos Líquidos de Subsídios,economico,
+Impostos sobre Produtos Líquidos de Subsídios (Versão Anterior) [Série interrompida],economico,
+Laranja - Produção,agro,
+Laranja - Valor da Produção,agro,
+Laranja - Área Colhida,agro,
+Leite - Produção,agro,
+Leite - Valor da Produção,agro,
+Leitos SUS,agro,
+Leitos de Internação,agro,
+Lenha - Produção,agro,
+Lenha - Valor da Produção,agro,
+Limão - Produção,agro,
+Limão - Valor da Produção,agro,
+Limão - Área Colhida,agro,
+Madeira em Tora para Outros Fins (exceto Papel e Celulose) - Produção,agro,
+Madeira em Tora para Outros Fins (exceto Papel e Celulose) - Valor da Produção,agro,
+Madeira em Tora para Papel e Celulose - Produção,agro,
+Madeira em Tora para Papel e Celulose - Valor da Produção,agro,
+Mamona (Baga) - Produção,agro,
+Mamona (Baga) - Valor da Produção,agro,
+Mamona (Baga) - Área Colhida,agro,
+Mamão - Produção,agro,
+Mamão - Valor da Produção,agro,
+Mamão - Área Colhida,agro,
+Mandioca - Produção,agro,
+Mandioca - Valor da Produção,agro,
+Mandioca - Área Colhida,agro,
+Manga - Produção,agro,
+Manga - Valor da Produção,agro,
+Manga - Área Colhida,agro,
+Maracujá - Produção,agro,
+Maracujá - Valor da Produção,agro,
+Maracujá - Área Colhida,agro,
+Matrículas na Creche,educacao,1
+Matrículas na Creche - Rede Conveniada,educacao,
+Matrículas na Creche - Rede Municipal,educacao,
+Matrículas na Creche - Rede Particular,educacao,
+Matrículas na Creche - Rede Privada exceto Conveniadas,educacao,
+Matrículas na Creche - Redes Estadual e Federal,educacao,
+Matrículas na Creche - Redes Pública e Conveniada,educacao,
+Matrículas na Educação Especial,educacao,
+Matrículas na Educação Especial - Rede Estadual,educacao,
+Matrículas na Educação Especial - Rede Municipal,educacao,
+Matrículas na Educação Especial - Rede Particular,educacao,
+Matrículas na Educação Especial - Rede Pública,educacao,
+Matrículas na Educação Especial Fundamental,educacao,
+Matrículas na Educação Especial Fundamental - Rede Estadual,educacao,
+Matrículas na Educação Especial Fundamental - Rede Municipal,educacao,
+Matrículas na Educação Especial Fundamental - Rede Particular,educacao,
+Matrículas na Educação Especial Fundamental - Rede Pública,educacao,
+Matrículas na Educação Infantil,educacao,1
+Matrículas na Educação Infantil - Rede Municipal,educacao,
+Matrículas na Educação Infantil - Rede Particular,educacao,
+Matrículas na Educação de Jovens e Adultos (EJA) no Ensino Fundamental,educacao,
+Matrículas na Educação de Jovens e Adultos (EJA) no Ensino Médio,educacao,
+Matrículas na Pré-Escola - Rede Estadual,educacao,
+Matrículas na Pré-Escola - Rede Particular,educacao,
+Matrículas na Pré-escola,educacao,1
+Matrículas na Pré-escola - Rede Conveniada,educacao,
+Matrículas na Pré-escola - Rede Municipal,educacao,
+Matrículas na Pré-escola - Rede Privada exceto Conveniada,educacao,
+Matrículas na Pré-escola - Redes Estadual e Federal,educacao,
+Matrículas na Pré-escola - Redes Pública e Conveniada,educacao,
+Matrículas no Ensino Fundamental,educacao,1
+Matrículas no Ensino Fundamental - Anos Finais,educacao,
+Matrículas no Ensino Fundamental - Anos Finais - Rede Estadual,educacao,
+Matrículas no Ensino Fundamental - Anos Finais - Rede Municipal,educacao,
+Matrículas no Ensino Fundamental - Anos Finais - Rede Privada,educacao,
+Matrículas no Ensino Fundamental - Anos Finais - Rede Pública,educacao,
+Matrículas no Ensino Fundamental - Anos Iniciais,educacao,
+Matrículas no Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,
+Matrículas no Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,
+Matrículas no Ensino Fundamental - Anos Iniciais - Rede Privada,educacao,
+Matrículas no Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,
+Matrículas no Ensino Fundamental - Rede Estadual,educacao,
+Matrículas no Ensino Fundamental - Rede Municipal,educacao,
+Matrículas no Ensino Fundamental - Rede Privada,educacao,
+Matrículas no Ensino Fundamental - Rede Pública,educacao,
+"Matrículas no Ensino Fundamental de pessoas de 6 a 14 Anos, em Relação à População na mesma Faixa Etária",educacao,
+Matrículas no Ensino Médio,educacao,1
+Matrículas no Ensino Médio - Rede Estadual,educacao,
+Matrículas no Ensino Médio - Rede Municipal,educacao,
+Matrículas no Ensino Médio - Rede Particular,educacao,
+Matrículas no Ensino Médio - Rede Pública,educacao,
+"Matrículas no Ensino Médio de pessoas de 15 a 17 Anos, em Relação à População na mesma Faixa Etária",educacao,
+Matrículas nos Cursos de Graduação Presencial - Programas ou Cursos gerais,educacao,
+Matrículas nos Cursos de Graduação Presencial - Rede Estadual,educacao,
+Matrículas nos Cursos de Graduação Presencial - Rede Federal,educacao,
+Matrículas nos Cursos de Graduação Presencial - Rede Municipal,educacao,
+Matrículas nos Cursos de Graduação Presencial - Rede Privada,educacao,
+Matrículas nos Cursos de Graduação Presencial - Total,educacao,
+Matrículas nos Cursos de Graduação Presencial - Área de Agricultura e Veterinária,educacao,
+"Matrículas nos Cursos de Graduação Presencial - Área de Ciências Sociais, Negócios e Direito",educacao,
+"Matrículas nos Cursos de Graduação Presencial - Área de Ciências, Matemática e Computação",educacao,
+Matrículas nos Cursos de Graduação Presencial - Área de Educação,educacao,
+"Matrículas nos Cursos de Graduação Presencial - Área de Engenharia, Produção e Construção",educacao,
+Matrículas nos Cursos de Graduação Presencial - Área de Humanidade e Artes,educacao,
+Matrículas nos Cursos de Graduação Presencial - Área de Saúde e Bem-Estar Social,educacao,
+Matrículas nos Cursos de Graduação Presencial - Área de Serviços,educacao,
+Maçã - Produção,agro,
+Maçã - Valor da Produção,agro,
+Maçã - Área Colhida,agro,
+Mel de Abelha - Produção,agro,
+Mel de Abelha - Valor da Produção,agro,
+Melancia - Produção,agro,
+Melancia - Valor da Produção,agro,
+Melancia - Área Colhida,agro,
+Melão - Produção,agro,
+Melão - Valor da Produção,agro,
+Melão - Área Colhida,agro,
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao,1
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao,1
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Pública,educacao,1
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,1
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,1
+Meta do Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,1
+Milho (Em Grão) - Produção,agro,
+Milho (Em Grão) - Valor da Produção,agro,
+Milho (Em Grão) - Área Colhida,agro,
+Muares - Rebanho [Série interrompida],agro,
+Mães que fizeram Sete e Mais Consultas de Pré-Natal,saude,
+Média de Anos de Estudos da População de 15 a 64 Anos - PNAD,saude,
+Médicos Registrados no CRM/SP,saude,
+Nascidos Mortos,saude,
+Nascidos Vivos (por local de residência),saude,
+Nascidos Vivos de Mães com Menos de 18 Anos,saude,
+"Nascimentos de Baixo Peso (menos de 2,5kg)",saude,
+Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Estadual,educacao,
+Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Municipal,educacao,
+Nota de Língua Portuguesa na Prova Brasil (5º ano) - Rede Pública,educacao,
+Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Estadual,educacao,
+Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Municipal,educacao,
+Nota de Língua Portuguesa na Prova Brasil (9º ano) - Rede Pública,educacao,
+Nota de Língua Portuguesa no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) - Ensino Médio - Rede Estadual,educacao,
+Nota de Matemática na Prova Brasil (5º ano) - Rede Estadual,educacao,
+Nota de Matemática na Prova Brasil (5º ano) - Rede Municipal,educacao,
+Nota de Matemática na Prova Brasil (5º ano) - Rede Pública,educacao,
+Nota de Matemática na Prova Brasil (9º ano) - Rede Estadual,educacao,
+Nota de Matemática na Prova Brasil (9º ano) - Rede Municipal,educacao,
+Nota de Matemática na Prova Brasil (9º ano) - Rede Pública,educacao,
+Nota de Matemática no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) - Ensino Médio - Rede Estadual,educacao,
+Noz - Produção,agro,
+Noz - Valor da Produção,agro,
+Noz - Área Colhida,agro,
+Número Médio de Alunos por Docente - Pré-escola,educacao,1
+Número Médio de Alunos por Docente - Pré-escola - Rede Privada exceto Conveniadas,educacao,
+Número Médio de Alunos por Docente - Pré-escola - Redes Pública e Conveniada,educacao,
+Número Médio de Alunos por Profissional - Creche,educacao,1
+Número Médio de Alunos por Profissional - Creche - Rede Privada exceto Conveniadas,educacao,
+Número Médio de Alunos por Profissional - Creche - Redes Pública e Conveniada,educacao,
+Número de Habitantes por Automóvel,demografico,
+Número de Habitantes por Total de Veículos,demografico,
+Ocorrências de Estupro,seguranca,
+Ocorrências de Furto de Veículos,seguranca,
+Ocorrências de Furtos,seguranca,
+Ocorrências de Homicídio Doloso,seguranca,
+Ocorrências de Outros Furtos,seguranca,
+Ocorrências de Outros Roubos,seguranca,
+Ocorrências de Roubo Seguido de Morte (Latrocínio),seguranca,
+Ocorrências de Roubo a Bancos,seguranca,
+Ocorrências de Roubo de Cargas,seguranca,
+Ocorrências de Roubo de Veículos,seguranca,
+Ocorrências de Roubos,seguranca,
+Operações de Crédito [Série interrompida],economico,
+Outras Despesas Municipais Correntes,economico,
+Outras Receitas Municipais de Capital,economico,
+Ovinos - Rebanho,agro,
+Ovos de Codorna - Produção,agro,
+Ovos de Codorna - Valor da Produção,agro,
+Ovos de Galinha - Produção,agro,
+Ovos de Galinha - Valor da Produção,agro,
+PIB,economico,
+PIB (Versão Anterior) [Série interrompida],economico,
+PIB per Capita,economico,
+PIB per Capita (Versão Anterior) [Série interrompida],economico,
+Palmito - Produção,agro,
+Palmito - Valor da Produção,agro,
+Palmito - Área Colhida,agro,
+Participação da Administração Pública no Total do Valor Adicionado,economico,
+Participação da Administração Pública no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico,
+Participação da Agropecuária no Total do Valor Adicionado,economico,
+Participação da Agropecuária no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico,
+Participação da Indústria no Total do Valor Adicionado,economico,
+Participação da Indústria no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico,
+Participação dos Casamentos Homoafetivos Femininos no Total de Casamentos,economico,
+Participação dos Casamentos Homoafetivos Masculinos no Total de Casamentos,economico,
+Participação dos Casamentos Homoafetivos no Total de Casamentos,economico,
+"Participação dos Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura no Total de Empregos Formais",economico,
+Participação dos Empregos Formais da Construção no Total de Empregos Formais,economico,
+Participação dos Empregos Formais da Indústria no Total de Empregos Formais,economico,
+Participação dos Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas no Total de Empregos Formais,economico,
+Participação dos Empregos Formais dos Serviços no Total de Empregos Formais,economico,
+Participação dos Serviços no Total do Valor Adicionado,economico,
+Participação dos Serviços no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico,
+Participação nas Exportações do Estado,economico,
+Participação no PIB do Estado,economico,
+Participação no PIB do Estado (Versão Anterior) [Série interrompida],economico,
+Partos Cesáreos,saude,
+Pera - Produção,agro,
+Pera - Valor da Produção,agro,
+Pera - Área Colhida,agro,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento Maior que 10 Salários Mínimos - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 1 a 2 Salários Mínimos - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 1/2 a 1 Salário Mínimo - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 2 a 3 Salários Mínimos - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 3 a 5 Salários Mínimos - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 5 a 10 Salários Mínimos - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de até 1/2 Salário Mínimo - Censo Demográfico,demografico,
+Pessoas Responsáveis pelos Domicílios Particulares Permanentes sem Rendimento - Censo Demográfico,demografico,
+População,demografico,
+População Amarela - Censo Demográfico,demografico,
+População Branca - Censo Demográfico,demografico,
+População Feminina,demografico,
+População Feminina de 0 a 4 Anos,demografico,
+População Feminina de 10 a 14 Anos,demografico,
+População Feminina de 15 a 19 Anos,demografico,
+População Feminina de 20 a 24 Anos,demografico,
+População Feminina de 25 a 29 Anos,demografico,
+População Feminina de 30 a 34 Anos,demografico,
+População Feminina de 35 a 39 Anos,demografico,
+População Feminina de 40 a 44 Anos,demografico,
+População Feminina de 45 a 49 Anos,demografico,
+População Feminina de 5 a 9 Anos,demografico,
+População Feminina de 50 a 54 Anos,demografico,
+População Feminina de 55 a 59 Anos,demografico,
+População Feminina de 60 a 64 Anos,demografico,
+População Feminina de 65 a 69 Anos,demografico,
+População Feminina de 70 a 74 Anos,demografico,
+População Feminina de 75 Anos e Mais,demografico,
+População Indígena - Censo Demográfico,demografico,
+População Masculina,demografico,
+População Masculina de 0 a 4 Anos,demografico,
+População Masculina de 10 a 14 Anos,demografico,
+População Masculina de 15 a 19 Anos,demografico,
+População Masculina de 20 a 24 Anos,demografico,
+População Masculina de 25 a 29 Anos,demografico,
+População Masculina de 30 a 34 Anos,demografico,
+População Masculina de 35 a 39 Anos,demografico,
+População Masculina de 40 a 44 Anos,demografico,
+População Masculina de 45 a 49 Anos,demografico,
+População Masculina de 5 a 9 Anos,demografico,
+População Masculina de 50 a 54 Anos,demografico,
+População Masculina de 55 a 59 Anos,demografico,
+População Masculina de 60 a 64 Anos,demografico,
+População Masculina de 65 a 69 Anos,demografico,
+População Masculina de 70 a 74 Anos,demografico,
+População Masculina de 75 Anos e Mais,demografico,
+População Parda - Censo Demográfico,demografico,
+População Preta - Censo Demográfico,demografico,
+População Rural,demografico,
+População Urbana,demografico,
+População com 60 Anos e Mais,demografico,
+População com Menos de 15 Anos,demografico,
+População de 0 a 3 Anos,demografico,
+População de 0 a 4 Anos,demografico,
+População de 10 a 14 Anos,demografico,
+População de 11 a 14 Anos,demografico,
+População de 15 Anos e Mais com Menos de 4 Anos de Estudo - Censo Demográfico,demografico,
+População de 15 a 17 Anos,demografico,
+População de 15 a 17 Anos com pelo Menos Ensino Fundamental Completo - Censo Demográfico,demografico,
+População de 15 a 19 Anos,demografico,
+População de 18 a 19 Anos,demografico,
+População de 18 a 24 Anos com Ensino Médio Completo - PNAD,demografico,
+População de 18 a 24 Anos com pelo Menos Ensino Fundamental Completo - Censo Demográfico,demografico,
+População de 18 a 24 Anos com pelo Menos Ensino Médio Completo - Censo Demográfico,demografico,
+População de 20 a 24 Anos,demografico,
+População de 25 Anos e Mais com Menos de 8 Anos de Estudo - PNAD,demografico,
+População de 25 Anos e Mais com pelo Menos Ensino Médio Completo - Censo Demográfico,demografico,
+População de 25 Anos e Mais com pelo Menos Ensino Superior Completo - Censo Demográfico,demografico,
+População de 25 a 29 Anos,demografico,
+População de 30 a 34 Anos,demografico,
+População de 35 a 39 Anos,demografico,
+População de 4 a 6 Anos,demografico,
+População de 40 a 44 Anos,demografico,
+População de 45 a 49 Anos,demografico,
+População de 5 a 9 Anos,demografico,
+População de 50 a 54 Anos,demografico,
+População de 55 a 59 Anos,demografico,
+População de 6 Anos,demografico,
+População de 60 a 64 Anos,demografico,
+População de 65 a 69 Anos,demografico,
+População de 7 a 10 Anos,demografico,
+População de 70 a 74 Anos,demografico,
+População de 75 Anos e Mais,demografico,
+Psicólogos Registrados no CRP - 6ª Região,saude,
+Pêssego - Produção,agro,
+Pêssego - Valor da Produção,agro,
+Pêssego - Área Colhida,agro,
+Razão de Sexos,demografico,
+Receita Municipal - Demais Transferências Correntes,economico,
+Receita Municipal - IRRF,economico,
+Receita Municipal Patrimonial,economico,
+Receita Municipal Própria,economico,
+Receita Municipal de Atividades Diversas,economico,
+Receita Municipal de Contribuições,economico,
+Receita Municipal por Transferências Correntes Intergovernamentais [Série interrompida],economico,
+Receita Municipal por Transferências Correntes [Série interrompida],economico,
+Receita Municipal por Transferências Correntes dos Municípios,economico,
+Receita Municipal por Transferências Multigovernamentais do Fundeb (Antigo Fundef),economico,
+Receita Municipal por Transferências da Cota-Parte do FPM [Série interrompida],economico,
+Receita Municipal por Transferências da Cota-Parte do ICMS [Série interrompida],economico,
+Receita Municipal por Transferências da Cota-Parte do IPI - Estados Exportadores [Série interrompida],economico,
+Receita Municipal por Transferências da Cota-Parte do IPVA [Série interrompida],economico,
+Receita Municipal por Transferências da Cota-Parte do ITR [Série interrompida],economico,
+Receita Municipal por Transferências de Convênios,economico,
+Receita Municipal por Transferências de Recursos do FNAS - União,economico,
+Receita Municipal por Transferências de Recursos do FNDE - União,economico,
+Receita Municipal por Transferências de Recursos do SUS - União,economico,
+Receitas Municipais com Alienação de Bens,economico,
+Receitas Municipais com Amortização de Empréstimos,economico,
+Receitas Municipais com Operações de Crédito,economico,
+Renda Domiciliar per Capita Média dos Domicílios Particulares Permanentes - PNAD,economico,
+Renda per Capita - Censo Demográfico,economico,
+Rendimento Médio Mensal das Pessoas Responsáveis pelos Domicílios Particulares Permanentes - Censo Demográfico,economico,
+Rendimento Médio do Total de Empregos Formais,economico,
+"Rendimento Médio dos Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,
+Rendimento Médio dos Empregos Formais da Construção,economico,
+Rendimento Médio dos Empregos Formais da Indústria,economico,
+Rendimento Médio dos Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,
+Rendimento Médio dos Empregos Formais dos Serviços,economico,
+Resina - Produção,agro,
+Resina - Valor da Produção,agro,
+Saldo Migratório Anual - Censo Demográfico,demografico,
+Soja (Em Grão) - Produção,agro,
+Soja (Em Grão) - Valor da Produção,agro,
+Soja (Em Grão) - Área Colhida,agro,
+Sorgo (Em Grão) - Produção,agro,
+Sorgo (Em Grão) - Valor da Produção,agro,
+Sorgo (Em Grão) - Área Colhida,agro,
+Suínos - Rebanho,agro,
+Tangerina - Produção,agro,
+Tangerina - Valor da Produção,agro,
+Tangerina - Área Colhida,agro,
+Taxa Anual de Migração  - Censo Demográfico,demografico,
+Taxa Geométrica de Crescimento Anual da População - 2000/2010,demografico,
+Taxa Geométrica de Crescimento Anual da População - 2010/2020,demografico,
+Taxa Geométrica de Crescimento Anual da População Rural - 2000/2010,demografico,
+Taxa Geométrica de Crescimento Anual da População Rural - 2010/2020,demografico,
+Taxa Geométrica de Crescimento Anual da População Urbana - 2000/2010,demografico,
+Taxa Geométrica de Crescimento Anual da População Urbana - 2010/2020,demografico,
+Taxa de Abandono do Ensino Fundamental,educacao,1
+Taxa de Abandono do Ensino Fundamental - Anos Finais,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Estadual,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Municipal,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Privada,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Finais - Rede Pública,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Iniciais,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao,
+Taxa de Abandono do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,
+Taxa de Abandono do Ensino Fundamental - Rede Estadual,educacao,
+Taxa de Abandono do Ensino Fundamental - Rede Municipal,educacao,
+Taxa de Abandono do Ensino Fundamental - Rede Particular,educacao,
+Taxa de Abandono do Ensino Fundamental - Rede Pública,educacao,
+Taxa de Abandono do Ensino Médio,educacao,1
+Taxa de Abandono do Ensino Médio - Rede Estadual,educacao,
+Taxa de Abandono do Ensino Médio - Rede Municipal,educacao,
+Taxa de Abandono do Ensino Médio - Rede Particular,educacao,
+Taxa de Abandono do Ensino Médio - Rede Pública,educacao,
+Taxa de Analfabetismo da População de 15 Anos e Mais - Censo Demográfico,educacao,
+Taxa de Analfabetismo da População de 15 Anos e Mais - PNAD,educacao,
+Taxa de Aprovação do Ensino Fundamental,educacao,1
+Taxa de Aprovação do Ensino Fundamental - Anos Finais,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Estadual,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Municipal,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Privada,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Finais - Rede Pública,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Iniciais,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao,
+Taxa de Aprovação do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,
+Taxa de Aprovação do Ensino Fundamental - Rede Estadual,educacao,
+Taxa de Aprovação do Ensino Fundamental - Rede Municipal,educacao,
+Taxa de Aprovação do Ensino Fundamental - Rede Particular,educacao,
+Taxa de Aprovação do Ensino Fundamental - Rede Pública,educacao,
+Taxa de Aprovação do Ensino Médio,educacao,1
+Taxa de Aprovação do Ensino Médio - Rede Estadual,educacao,
+Taxa de Aprovação do Ensino Médio - Rede Municipal,educacao,
+Taxa de Aprovação do Ensino Médio - Rede Particular,educacao,
+Taxa de Aprovação do Ensino Médio - Rede Pública,educacao,
+Taxa de Fecundidade Geral,saude,
+Taxa de Mortalidade Geral (por local de residência),saude,
+Taxa de Mortalidade Infantil,saude,
+Taxa de Mortalidade Materna,saude,
+Taxa de Mortalidade Neonatal,saude,
+Taxa de Mortalidade Neonatal Precoce,saude,
+Taxa de Mortalidade Neonatal Tardia,saude,
+Taxa de Mortalidade Perinatal,saude,
+Taxa de Mortalidade Pós Neonatal,saude,
+Taxa de Mortalidade da População de 15 a 34 Anos,saude,
+Taxa de Mortalidade da População de 60 Anos e Mais,saude,
+Taxa de Mortalidade de Mulheres em Idade Fértil,saude,
+Taxa de Mortalidade na Infância,saude,
+Taxa de Mortalidade por AIDS,saude,
+Taxa de Mortalidade por Acidentes de Transportes,saude,
+Taxa de Mortalidade por Agressões,saude,
+Taxa de Mortalidade por Causas Externas,saude,
+Taxa de Mortalidade por Suicídio,saude,
+Taxa de Natalidade,saude,
+Taxa de Natimortalidade,saude,
+Taxa de Nupcialidade,demografico,
+Taxa de Nupcialidade da População de 15 Anos ou Mais,demografico,
+Taxa de Reprovação do Ensino Fundamental,educacao,1
+Taxa de Reprovação do Ensino Fundamental - Anos Finais,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Estadual,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Municipal,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Privada,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Finais - Rede Pública,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Iniciais,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Privada,educacao,
+Taxa de Reprovação do Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,
+Taxa de Reprovação do Ensino Fundamental - Rede Estadual,educacao,
+Taxa de Reprovação do Ensino Fundamental - Rede Municipal,educacao,
+Taxa de Reprovação do Ensino Fundamental - Rede Privada,educacao,
+Taxa de Reprovação do Ensino Fundamental - Rede Pública,educacao,
+Taxa de Reprovação do Ensino Médio,educacao,1
+Taxa de Reprovação do Ensino Médio - Rede Estadual,educacao,
+Taxa de Reprovação do Ensino Médio - Rede Municipal,educacao,
+Taxa de Reprovação do Ensino Médio - Rede Privada,educacao,
+Taxa de Reprovação do Ensino Médio - Rede Pública,educacao,
+Tomate - Produção,agro,
+Tomate - Valor da Produção,agro,
+Tomate - Área Colhida,agro,
+Total da Receita Municipal,economico,
+Total da Receita Municipal com Transferências de Capital,economico,
+Total da Receita Municipal por Transferências Correntes da União [Série interrompida],economico,
+Total da Receita Municipal por Transferências Correntes do Estado [Série interrompida],economico,
+Total da Receita Tributária Municipal,economico,
+Total de Arrecadação Municipal de Taxas,economico,
+Total de Arrecadação de Impostos Municipais,economico,
+Total de Deduções da Receita Municipal Corrente [Série interrompida],economico,
+Total de Despesas Municipais,economico,
+Total de Despesas Municipais - Administração,economico,
+Total de Despesas Municipais - Agricultura e Organização Agrária,economico,
+Total de Despesas Municipais - Assistência Social,economico,
+Total de Despesas Municipais - Comunicações,economico,
+Total de Despesas Municipais - Cultura,economico,
+Total de Despesas Municipais - Defesa Nacional e Segurança Pública,economico,
+Total de Despesas Municipais - Desporto e Lazer,economico,
+Total de Despesas Municipais - Educação,economico,
+Total de Despesas Municipais - Encargos Especiais,economico,
+Total de Despesas Municipais - Energia,economico,
+Total de Despesas Municipais - Gestão Ambiental,economico,
+Total de Despesas Municipais - Habitação,economico,
+"Total de Despesas Municipais - Indústria, Comércio e Serviços",economico,
+Total de Despesas Municipais - Judiciário,economico,
+Total de Despesas Municipais - Legislativo,economico,
+Total de Despesas Municipais - Previdência Social,economico,
+Total de Despesas Municipais - Saneamento,economico,
+Total de Despesas Municipais - Saúde,economico,
+Total de Despesas Municipais - Trabalho,economico,
+Total de Despesas Municipais - Transporte,economico,
+Total de Despesas Municipais - Urbanismo,economico,
+Total de Despesas Municipais Correntes,economico,
+Total de Despesas Municipais com Investimentos,economico,
+Total de Despesas Municipais de Capital,economico,
+Total de Despesas Municipais nas Demais Funções de Governo,economico,
+Total de Despesas Municipais por Função,economico,
+Total de Outras Receitas Municipais Correntes,economico,
+Total de Receitas Municipais Correntes,economico,
+Total de Receitas Municipais de Capital,economico,
+Trigo (Em Grão) - Produção,agro,
+Trigo (Em Grão) - Valor da Produção,agro,
+Trigo (Em Grão) - Área Colhida,agro,
+Triticale (Em Grão) - Produção,agro,
+Triticale (Em Grão) - Valor da Produção,agro,
+Triticale (Em Grão) - Área Colhida,agro,
+Técnicos de Enfermagem Registrados no COREN/SP,saude,
+Técnicos de Prótese Dentária Registrados no CRO/SP,saude,
+Unidade de Gerenciamento de Recursos Hídricos (UGRHI) a que Pertence o Município,demografico,
+Unidades de Atenção Básica de Saúde [Série interrompida],saude,
+Urucum (Semente) - Produção,agro,
+Urucum (Semente) - Valor da Produção,agro,
+Urucum (Semente) - Área Colhida,agro,
+Uva - Produção,agro,
+Uva - Valor da Produção,agro,
+Uva - Área Colhida,agro,
+Vacas Ordenhadas,agro,
+Valor Adicionado Fiscal - Outros [Série interrompida],economico,
+Valor Adicionado Fiscal - Total,economico,
+"Valor Adicionado Fiscal da Agricultura, Pecuária e Outros Produtos Animais [Série interrompida]",economico,
+Valor Adicionado Fiscal da Indústria - Artigos de Borracha [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Bebidas [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Combustíveis [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Couros e Calçados [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Diversas [Série interrompida],economico,
+"Valor Adicionado Fiscal da Indústria - Edição, Impressão e Gravações [Série interrompida]",economico,
+Valor Adicionado Fiscal da Indústria - Eletrodomésticos [Série interrompida],economico,
+"Valor Adicionado Fiscal da Indústria - Equipamentos Médicos, Óticos, de Automação e Precisão [Série interrompida]",economico,
+Valor Adicionado Fiscal da Indústria - Extrativa [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Fumo [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Madeira [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Material Eletrônico e Equipamentos de Comunicações [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Material de Transporte - Montadoras e Autopeças [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Metalurgia Básica - Ferrosos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Metalurgia Básica - Não Ferrosos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Minerais Não Metálicos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Máquinas e Equipamentos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Máquinas para Escritório e Equipamentos de Informática [Série interrompida],economico,
+"Valor Adicionado Fiscal da Indústria - Máquinas, Aparelhos e Materiais Elétricos [Série interrompida]",economico,
+Valor Adicionado Fiscal da Indústria - Móveis [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Papel e Celulose [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos Alimentícios [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos Farmacêuticos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos Químicos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos de Metal [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos de Perfumaria e Cosméticos [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Produtos de Plástico [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Reciclagem [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Total [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Têxtil [Série interrompida],economico,
+Valor Adicionado Fiscal da Indústria - Vestuário e Acessórios [Série interrompida],economico,
+Valor Adicionado Fiscal do Comércio - Total [Série interrompida],economico,
+Valor Adicionado Fiscal do Comércio Atacadista [Série interrompida],economico,
+Valor Adicionado Fiscal do Comércio Varejista [Série interrompida],economico,
+Valor Adicionado Fiscal dos Serviços [Série interrompida],economico,
+Valor Adicionado Total,economico,
+Valor Adicionado Total (Versão Anterior) [Série interrompida],economico,
+Valor Adicionado da Administração Pública,economico,
+Valor Adicionado da Administração Pública (Versão Anterior) [Série interrompida],economico,
+Valor Adicionado da Agropecuária,economico,
+Valor Adicionado da Agropecuária (Versão Anterior) [Série interrompida],economico,
+Valor Adicionado dos Serviços,economico,
+Valor Adicionado dos Serviços (Versão Anterior) [Série interrompida],economico,
+Valor Adicionado na Indústria,economico,
+Valor Adicionado na Indústria (Versão Anterior) [Série interrompida],economico,
+Valor da Transformação Industrial – Bebidas,economico,
+Valor da Transformação Industrial – Biocombustíveis,economico,
+Valor da Transformação Industrial – Borracha e material plástico,economico,
+Valor da Transformação Industrial – Celulose e produtos de papel,economico,
+Valor da Transformação Industrial – Couros e artefatos de couros,economico,
+Valor da Transformação Industrial – Derivados do petróleo,economico,
+"Valor da Transformação Industrial – Equipamentos de informática, eletrônicos e ópticos",economico,
+Valor da Transformação Industrial – Impressão e reprodução de gravações,economico,
+Valor da Transformação Industrial – Metalurgia,economico,
+Valor da Transformação Industrial – Minerais não metálicos,economico,
+Valor da Transformação Industrial – Máquinas e equipamentos,economico,
+"Valor da Transformação Industrial – Máquinas, aparelhos e materiais elétricos",economico,
+Valor da Transformação Industrial – Móveis,economico,
+Valor da Transformação Industrial – Outros equipamentos de transporte,economico,
+Valor da Transformação Industrial – Produtos Têxteis,economico,
+Valor da Transformação Industrial – Produtos alimentícios,economico,
+Valor da Transformação Industrial – Produtos de madeira,economico,
+Valor da Transformação Industrial – Produtos de metal,economico,
+Valor da Transformação Industrial – Produtos farmoquímicos e farmacêuticos,economico,
+Valor da Transformação Industrial – Produtos químicos,economico,
+Valor da Transformação Industrial – Vestuário e acessórios,economico,
+"Valor da Transformação Industrial – Veículos automotores, reboques e carrocerias",economico,
+Valor das Exportações,economico,
+Valor das Importações,economico,
+Área,demografico,
+Índice Paulista de Responsabilidade Social - IPRS - Dimensão Escolaridade,educacao,
+Índice Paulista de Responsabilidade Social - IPRS - Dimensão Longevidade,demografico,
+Índice Paulista de Responsabilidade Social - IPRS - Dimensão Riqueza,economico,
+Índice Paulista de Responsabilidade Social - IPRS - Grupo,demografico,
+Índice de Desenvolvimento Humano Municipal - IDHM,demografico,
+Índice de Desenvolvimento Humano Municipal - IDHM - Ranking dos Municípios,demografico,
+Índice de Desenvolvimento Humano Municipal - IDHM Educação,economico,
+Índice de Desenvolvimento Humano Municipal - IDHM Longevidade,demografico,
+Índice de Desenvolvimento Humano Municipal - IDHM Renda,economico,
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao,1
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao,1
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Pública,educacao,1
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Estadual,educacao,1
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Municipal,educacao,1
+Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Iniciais - Rede Pública,educacao,1
+Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 5º ano,educacao,1
+Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 9º ano,educacao,1
+Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Médio,educacao,1
+Índice de Envelhecimento,demografico,
+Índice de Gini do Rendimento Domiciliar Total dos Domicílios Particulares Permanentes - PNAD,economico,
+Índice de Participação dos Municípios no ICMS,economico,
+Óbitos Femininos de 15 a 49 Anos,seguranca,
+Óbitos Fetais Mais Óbitos de Menores de 7 Dias,seguranca,
+Óbitos Gerais (por local de residência),seguranca,
+Óbitos Menores de 1 Ano,seguranca,
+Óbitos Menores de 28 Dias,seguranca,
+Óbitos Menores de 7 Dias,seguranca,
+Óbitos da População de 15 a 34 Anos,seguranca,
+Óbitos da População de 60 Anos e Mais,seguranca,
+Óbitos de 28 Dias até 1 Ano,seguranca,
+Óbitos de 7 até 27 Dias,seguranca,
+Óbitos por AIDS,seguranca,
+Óbitos por Acidentes de Transportes,seguranca,
+Óbitos por Agressões,seguranca,
+Óbitos por Causas Externas,seguranca,
+"Óbitos por Complicação da Gravidez, Parto e Puerpério",seguranca,
+Óbitos por Suicídio,seguranca,
