@@ -14,7 +14,8 @@
   - Taxa de Abandono 
   - Taxa de aprovação/reprovação
   - Concluintes
-  - Número de Professores
+  - Taxa de Analfabetismo
+  - Número de Docentes / Docentes por aluno 
 
 - Fontes de Dados
  - [QEdu](https://www.qedu.org.br/)
