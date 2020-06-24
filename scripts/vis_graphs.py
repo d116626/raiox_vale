@@ -45,16 +45,23 @@ def plot_bars(df, var, xx='localidade', yy='valor'):
     fig.update_layout({'template': 'plotly_white', 
                        'title': f'{var} - {ano}'})
     
-    return fig.update_layout(hovermode = 'y', height=1200), df
+    return fig.update_layout(hovermode = 'y', height=1200, autosize=True,)
 
 
 
 
 def plot_map(df, sp, var, xx='localidade', yy='valor'):
     
-    mask = (df['variavel']==var) & (df['valor']!=' ') 
+    mask = (df['variavel']==var) & (df['valor']!=' ')
     # mask = (dd['portal']==1)
     df = df[mask]
+    
+    
+    mask = df['localidade'].isin(['Vale do Paraíba e Litoral Norte','Estado de São Paulo'])
+    df = df[np.logical_not(mask)]
+    
+    df['valor'] = np.where(df['valor']==0, np.nan, df['valor'])
+    
     df['valor'] = pd.to_numeric(df['valor'], errors='coerce')
     
     da = df.sort_values(by='valor')
@@ -64,22 +71,22 @@ def plot_map(df, sp, var, xx='localidade', yy='valor'):
     da = da[da['geocodigo'].notnull()]
     da = gpd.GeoDataFrame(da)
 
-    ano = max(da['ano'])
+    # ano = max(da['ano'])
     
     #Plot Map
     fig = plt.figure(figsize=(25,25))
     ax  = fig.add_subplot(1,1,1)
-    ax.set_title(f'{var} - {ano}', fontsize=23)
+    # ax.set_title(f'{var} - {ano}', fontsize=23)
 
 
     missings={
         "color": "white",
-        "edgecolor": "red",
+        "edgecolor": "black",
         "hatch": "///",
-        "label": "Missing values",
+        "label": "Valores Ausentes",
     }
     
-    legend_kwds={'loc': 'lower left'}
+    legend_kwds={'loc': 'lower right'}
     edgecolor = "black"
     edge_width = 2.2
     

@@ -28,4 +28,6 @@ def merge_data(dd, var, geocode_seade):
 
     dd = dd.merge(geocode_seade,on='localidade', how='left')
     
+    dd['localidade'] = dd['localidade'].str.replace('Total do Estado de São Paulo','Estado de São Paulo').str.replace('Região Metropolitana do Vale do Paraíba e Litoral Norte','Vale do Paraíba e Litoral Norte')
+    
     return dd

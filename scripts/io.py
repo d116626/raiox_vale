@@ -70,3 +70,5 @@ def load_kpis():
     dh = ddf.sort_values(by=['codigo_localidade','periodo','nome_localidade_pai','year'], ascending=False).sort_values(by=['variavel','ano'])
     
     return dd, dh
+
+
