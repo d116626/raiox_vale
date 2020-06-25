@@ -162,7 +162,7 @@ Consumo de Energia Elétrica - Total,economico,,
 Crédito Rural Agricultura [Série interrompida],agro,,
 Crédito Rural Pecuária [Série interrompida],agro,,
 Crédito Rural [Série interrompida],agro,,
-Densidade Demográfica,demografico,,
+Densidade Demográfica,demografico,1,0
 Dentistas Registrados no CRO/SP,saude,,
 Depósitos Totais [Série interrompida],economico,,
 Despesas Municipais com Amortização da Dívida (Interna e Externa),economico,,
@@ -212,7 +212,7 @@ Domicílios Particulares Permanentes com Renda per Capita até 1/2 Salário Mín
 Domicílios Particulares Permanentes com Renda per Capita até 1/4 do Salário Mínimo - PNAD,demografico,,
 Domicílios Particulares com Renda per Capita até 1/2 Salário Mínimo - Censo Demográfico,demografico,,
 Domicílios Particulares com Renda per Capita até 1/4 do Salário Mínimo - Censo Demográfico,demografico,,
-Eleitores,demografico,,
+Eleitores,demografico,1,1
 Eleitores Femininos com 16 e 17 Anos,demografico,,
 Eleitores Femininos com 18 a 24 Anos,demografico,,
 Eleitores Femininos com 25 a 34 Anos,demografico,,
@@ -237,7 +237,7 @@ Eleitores com 45 a 59 Anos ,demografico,,
 Eleitores com 60 a 69 Anos ,demografico,,
 Eleitores com 70 Anos e Mais,demografico,,
 Eleitores sem Declaração de Sexo ,demografico,,
-Empregos Formais,economico,,
+Empregos Formais,demografico,1,1
 "Empregos Formais da Administração Pública, Defesa e Seguridade Social",economico,,
 "Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,,
 Empregos Formais da Confecção de Artigos do Vestuário e Acessórios,economico,,
@@ -298,8 +298,8 @@ Equinos - Rebanho,agro,,
 Ervilha (Em grão) - Produção,agro,,
 Ervilha (Em grão) - Valor da Produção,agro,,
 Ervilha (Em grão) - Área Colhida,agro,,
-Esgoto Sanitário - Nível de Atendimento - Censo Demográfico,demografico,,
-Esgoto Sanitário dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico,,
+Esgoto Sanitário - Nível de Atendimento - Censo Demográfico,demografico,1,0
+Esgoto Sanitário dos Domicílios Particulares Permanentes - Nível de Atendimento - PNAD,demografico,1,0
 Esperança de Vida ao Nascer da População Feminina,saude,,
 Esperança de Vida ao Nascer da População Masculina,saude,,
 Esperança de Vida ao Nascer da População Total,saude,,
@@ -370,14 +370,14 @@ Figo - Produção,agro,,
 Figo - Valor da Produção,agro,,
 Figo - Área Colhida,agro,,
 Fonoaudiólogos registrados no CRFa/SP,saude,,
-Frota de Automóveis,demografico,,
-Frota de Caminhões,demografico,,
-Frota de Microônibus e Camionetas,,,
+Frota de Automóveis,demografico,1,1
+Frota de Caminhões,demografico,1,1
+Frota de Microônibus e Camionetas,demografico,,
 Frota de Motocicletas e Assemelhados,demografico,,
 Frota de Reboques,demografico,,
-Frota de Veículos - Total,demografico,,
+Frota de Veículos - Total,demografico,1,1
 Frota de Veículos de Outro Tipo,demografico,,
-Frota de Ônibus,demografico,,
+Frota de Ônibus,demografico,1,1
 Fumo (Em Folha) - Produção,agro,,
 Fumo (Em Folha) - Valor da Produção,agro,,
 Fumo (Em Folha) - Área Colhida,agro,,
@@ -614,10 +614,10 @@ Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento 
 Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de Mais de 5 a 10 Salários Mínimos - Censo Demográfico,demografico,,
 Pessoas Responsáveis pelos Domicílios Particulares Permanentes com Rendimento de até 1/2 Salário Mínimo - Censo Demográfico,demografico,,
 Pessoas Responsáveis pelos Domicílios Particulares Permanentes sem Rendimento - Censo Demográfico,demografico,,
-População,demografico,,
-População Amarela - Censo Demográfico,demografico,,
-População Branca - Censo Demográfico,demografico,,
-População Feminina,demografico,,
+População,demografico,1,1
+População Amarela - Censo Demográfico,demografico,1,1
+População Branca - Censo Demográfico,demografico,1,1
+População Feminina,demografico,1,1
 População Feminina de 0 a 4 Anos,demografico,,
 População Feminina de 10 a 14 Anos,demografico,,
 População Feminina de 15 a 19 Anos,demografico,,
@@ -634,8 +634,8 @@ População Feminina de 60 a 64 Anos,demografico,,
 População Feminina de 65 a 69 Anos,demografico,,
 População Feminina de 70 a 74 Anos,demografico,,
 População Feminina de 75 Anos e Mais,demografico,,
-População Indígena - Censo Demográfico,demografico,,
-População Masculina,demografico,,
+População Indígena - Censo Demográfico,demografico,1,1
+População Masculina,demografico,1,1
 População Masculina de 0 a 4 Anos,demografico,,
 População Masculina de 10 a 14 Anos,demografico,,
 População Masculina de 15 a 19 Anos,demografico,,
@@ -652,11 +652,11 @@ População Masculina de 60 a 64 Anos,demografico,,
 População Masculina de 65 a 69 Anos,demografico,,
 População Masculina de 70 a 74 Anos,demografico,,
 População Masculina de 75 Anos e Mais,demografico,,
-População Parda - Censo Demográfico,demografico,,
-População Preta - Censo Demográfico,demografico,,
-População Rural,demografico,,
-População Urbana,demografico,,
-População com 60 Anos e Mais,demografico,,
+População Parda - Censo Demográfico,demografico,1,1
+População Preta - Censo Demográfico,demografico,1,1
+População Rural,demografico,1,1
+População Urbana,demografico,1,1
+População com 60 Anos e Mais,demografico,1,1
 População com Menos de 15 Anos,demografico,,
 População de 0 a 3 Anos,demografico,,
 População de 0 a 4 Anos,demografico,,
@@ -964,10 +964,10 @@ Valor das Importações,economico,,
 Índice Paulista de Responsabilidade Social - IPRS - Dimensão Longevidade,demografico,,
 Índice Paulista de Responsabilidade Social - IPRS - Dimensão Riqueza,economico,,
 Índice Paulista de Responsabilidade Social - IPRS - Grupo,demografico,,
-Índice de Desenvolvimento Humano Municipal - IDHM,demografico,,
-Índice de Desenvolvimento Humano Municipal - IDHM - Ranking dos Municípios,demografico,,
+Índice de Desenvolvimento Humano Municipal - IDHM,demografico,1,0
+Índice de Desenvolvimento Humano Municipal - IDHM - Ranking dos Municípios,demografico,1,0
 Índice de Desenvolvimento Humano Municipal - IDHM Educação,economico,,
-Índice de Desenvolvimento Humano Municipal - IDHM Longevidade,demografico,,
+Índice de Desenvolvimento Humano Municipal - IDHM Longevidade,demografico,1,0
 Índice de Desenvolvimento Humano Municipal - IDHM Renda,economico,,
 Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao,1,0
 Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao,1,0
@@ -978,7 +978,7 @@ Valor das Importações,economico,,
 Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 5º ano,educacao,1,0
 Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 9º ano,educacao,1,0
 Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Médio,educacao,1,0
-Índice de Envelhecimento,demografico,,
+Índice de Envelhecimento,demografico,1,0
 Índice de Gini do Rendimento Domiciliar Total dos Domicílios Particulares Permanentes - PNAD,economico,,
 Índice de Participação dos Municípios no ICMS,economico,,
 Óbitos Femininos de 15 a 49 Anos,seguranca,,

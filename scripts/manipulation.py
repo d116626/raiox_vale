@@ -71,6 +71,6 @@ def merge_data(dd,dh_history, var, geocode_seade):
     dd = dd.merge(df_populacao, how = 'left', on=['localidade','ano'])
 
     # ### Normalize by 10**5 population 
-    dd['valor'] = np.where(((dd['absolute']==1) & (dd['valor'].notnull())),np.int64((dd['valor']/dd['populacao'].astype(int))*10**5),dd['valor'])
+    dd['valor'] = np.where(((dd['absolute']==1) & (dd['valor'].notnull() & (dd['variavel']!='População'))),np.int64((dd['valor']/dd['populacao'].astype(int))*10**5),dd['valor'])
 
     return dd
