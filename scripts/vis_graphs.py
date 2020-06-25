@@ -9,7 +9,22 @@ import matplotlib.pyplot as plt
 
 import geopandas as gpd
 
+import unidecode
 
+
+def variable_name_file_name(dd,var_file,var):
+    df =  dd[(dd['variavel']==var)]
+    
+    ano = max(df['ano'])
+    if max(df['absolute']==1):
+        var_name = f'{var} a cada 100 mil habitantes ({ano})'
+    else:
+        var_name = f'{var} ({ano})'
+    
+    file_name = unidecode.unidecode(var.lower().replace(' ','_').replace('-',''))
+    var_file[var_name] = file_name
+    
+    return var_file
 
 
 
