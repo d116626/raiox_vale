@@ -13,21 +13,20 @@ import geopandas as gpd
 
 
 
-def plot_bars(df, var, xx='localidade', yy='valor'):
+def plot_bars(df, var,themes ,xx='localidade', yy='valor'):
     
     mask = (df['variavel']==var) & (df['valor']!=' ') 
     # mask = (dd['portal']==1)
     df = df[mask]
-    df['valor'] = pd.to_numeric(df['valor'], errors='coerce')
     
+    df = df.fillna(0)
     df = df.sort_values(by='valor')
-
 
     sp_color = '#0D485A'
     vale_color  = '#FA7609'
     
     
-    df['color'] = np.where(df['localidade']=='Total do Estado de São Paulo', sp_color,vale_color)
+    df['color'] = np.where((df['localidade']=='Estado de São Paulo') | (df['localidade']=='Vale do Paraíba e Litoral Norte'), sp_color,vale_color)
     
     trace = go.Bar(
                     y=df[xx],
@@ -38,15 +37,18 @@ def plot_bars(df, var, xx='localidade', yy='valor'):
     
     data = [trace]
     
-    fig = go.Figure(data)
-    
-
     ano = max(df['ano'])
-    fig.update_layout({'template': 'plotly_white', 
-                       'title': f'{var} - {ano}'})
     
-    return fig.update_layout(hovermode = 'y', height=1200, autosize=True,)
+    title = f'{var} - {ano}'
+    
+    layout = vis_layout.get_layout(themes,title)
+    
+    
+    
+    fig = go.Figure(data=data, layout=layout)
 
+    
+    return fig
 
 
 
@@ -62,7 +64,6 @@ def plot_map(df, sp, var, xx='localidade', yy='valor'):
     
     df['valor'] = np.where(df['valor']==0, np.nan, df['valor'])
     
-    df['valor'] = pd.to_numeric(df['valor'], errors='coerce')
     
     da = df.sort_values(by='valor')
     

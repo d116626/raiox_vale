@@ -49,7 +49,7 @@ def read_sheets(sheet_name, workSheet=0):
 
 
 def load_variables_geocodes():
-    var = pd.read_csv('../data/variaveis_selected.csv')
+    var = pd.read_csv('../data/seade/variaveis_selected.csv')
     mask = (var['tipo']=='agro') | (var['variavel'].str.contains('Série interrompida'))
     var  = var[np.logical_not(mask)]
 
@@ -59,7 +59,7 @@ def load_variables_geocodes():
 
 
 def load_kpis():
-    df = pd.read_csv('../data/dados_consolidados.csv')
+    df = pd.read_csv('../data/seade/dados_consolidados.csv')
     mask = df['variavel']!='missing'
     df = df[mask]
 
@@ -68,6 +68,9 @@ def load_kpis():
     dd = ddf.sort_values(by=['codigo_localidade','periodo','nome_localidade_pai','year'], ascending=False).drop_duplicates(['localidade','variavel'],keep='first').sort_values(by='variavel')
 
     dh = ddf.sort_values(by=['codigo_localidade','periodo','nome_localidade_pai','year'], ascending=False).sort_values(by=['variavel','ano'])
+    
+    
+    
     
     return dd, dh
 
