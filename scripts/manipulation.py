@@ -41,7 +41,20 @@ def merge_data(dd,dh_history, var, geocode_seade):
 
     mask  = (dd['valor'].isnull()) | (dd['localidade'].isin(['Vale do Paraíba e Litoral Norte','Estado de São Paulo']))
 
-    dd_vale = dd[np.logical_not(mask)].groupby(by=['variavel'], as_index=False).agg({'unidade':'last','periodo':'last','ano':'max','valor':sum,'tipo':'last','portal':'last','cities':sum, 'absolute':'last'})
+    dd_vale = dd[np.logical_not(mask)].groupby(by=['variavel'], as_index=False).agg(
+        {
+            'unidade':'last',
+            'periodo':'last',
+            'ano':'max',
+            'valor':sum,
+            'tipo':'last',
+            'portal':'last',
+            'cities':sum,
+            'absolute':'last',
+            'percapta':'last'
+
+        }
+    )
     dd_vale['valor'] = np.where(dd_vale['absolute']==0,round(dd_vale['valor']/dd_vale['cities'],2),dd_vale['valor'])
     dd_vale = dd_vale.drop(columns=['cities'])
 
@@ -70,7 +83,16 @@ def merge_data(dd,dh_history, var, geocode_seade):
     
     dd = dd.merge(df_populacao, how = 'left', on=['localidade','ano'])
 
-    # ### Normalize by 10**5 population 
-    dd['valor'] = np.where(((dd['absolute']==1) & (dd['valor'].notnull() & (dd['variavel']!='População'))),np.int64((dd['valor']/dd['populacao'].astype(int))*10**5),dd['valor'])
+    dd['sufix'] = ''
+    
+    
+    # ### Normalize by 10**5 population
+    mask = ((dd['absolute']==1)  & (dd['percapta']==0) & (dd['valor'].notnull()) & (dd['variavel']!='População') ) 
+    dd['valor'] = np.where(mask, np.int64((dd['valor']/dd['populacao'].astype(int))*10**5),dd['valor'])
+    dd['sufix'] = np.where(mask, 'a cada 100 mil habitantes', dd['sufix'])
+
+    mask = ((dd['absolute']==1)  & (dd['percapta']==1) & (dd['valor'].notnull()) & (dd['variavel']!='População') )
+    dd['valor'] = np.where(mask, np.int64((dd['valor']/dd['populacao'].astype(int))),dd['valor'])
+    dd['sufix'] = np.where(mask, 'per capita', dd['sufix'])
 
     return dd

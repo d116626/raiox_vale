@@ -16,10 +16,17 @@ def variable_name_file_name(dd,var_file,var):
     df =  dd[(dd['variavel']==var)]
     
     ano = max(df['ano'])
-    if (max(df['absolute']==1)  & (df['variavel'].unique().tolist()[0] != 'População')) :
-        var_name = f'{var} a cada 100 mil habitantes ({ano})'
+    
+    
+    sufixes = np.sort(df['sufix'].unique())
+    if len(sufixes)>1:
+        sufix = sufixes[1]
     else:
-        var_name = f'{var} ({ano})'
+        sufix = sufixes[0]
+    
+    unidade = np.sort(df['unidade'].unique())[0]
+        
+    var_name = f'{var} {sufix} - ({ano}) - {unidade}'
     
     file_name = unidecode.unidecode(var.lower().replace(' ','_').replace('-',''))
     var_file[var_name] = file_name
