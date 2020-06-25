@@ -65,10 +65,10 @@ Alunos que Atingiram o Nível Básico na Prova Brasil em Matemática (9º ano) -
 Amendoim (Em Casca) - Produção,agro,,
 Amendoim (Em Casca) - Valor da Produção,agro,,
 Amendoim (Em Casca) - Área Colhida,agro,,
-Arrecadação Municipal de Contribuições de Melhoria,economico,,
-Arrecadação de IPTU,economico,,
-Arrecadação de ISS,economico,,
-Arrecadação de ITBI,economico,,
+Arrecadação Municipal de Contribuições de Melhoria,economico,1,1
+Arrecadação de IPTU,economico,1,1
+Arrecadação de ISS,economico,1,1
+Arrecadação de ITBI,economico,1,1
 Arroz (Em Casca) - Produção,agro,,
 Arroz (Em Casca) - Valor da Produção,agro,,
 Arroz (Em Casca) - Área Colhida,agro,,
@@ -158,7 +158,7 @@ Consumo de Energia Elétrica - Iluminação e Serviços Públicos e Outros,econo
 Consumo de Energia Elétrica - Industrial,economico,,
 Consumo de Energia Elétrica - Residencial,economico,,
 Consumo de Energia Elétrica - Rural,economico,,
-Consumo de Energia Elétrica - Total,economico,,
+Consumo de Energia Elétrica - Total,economico,1,1
 Crédito Rural Agricultura [Série interrompida],agro,,
 Crédito Rural Pecuária [Série interrompida],agro,,
 Crédito Rural [Série interrompida],agro,,
@@ -166,12 +166,12 @@ Densidade Demográfica,demografico,1,0
 Dentistas Registrados no CRO/SP,saude,,
 Depósitos Totais [Série interrompida],economico,,
 Despesas Municipais com Amortização da Dívida (Interna e Externa),economico,,
-Despesas Municipais com Inativos e Pensionistas,economico,,
-Despesas Municipais com Inversões Financeiras,economico,,
+Despesas Municipais com Inativos e Pensionistas,economico,1,1
+Despesas Municipais com Inversões Financeiras,economico,1,1
 Despesas Municipais com Juros e Encargos da Dívida (Interna e Externa),economico,,
 Despesas Municipais com Material de Consumo,economico,,
-Despesas Municipais com Pessoal,economico,,
-Despesas Municipais com Pessoal e Encargos Sociais,economico,,
+Despesas Municipais com Pessoal,economico,1,1
+Despesas Municipais com Pessoal e Encargos Sociais,economico,1,1
 Despesas Municipais com Serviços de Terceiros - Pessoa Física,economico,,
 Despesas Municipais com Serviços de Terceiros - Pessoa Jurídica,economico,,
 Despesas Municipais com Serviços de Terceiros e Encargos,economico,,
@@ -184,8 +184,8 @@ Despesas Municipais na Subfunção Educação Infantil,economico,,
 Despesas Municipais na Subfunção Ensino Fundamental,economico,,
 Despesas Municipais na Subfunção Ensino Médio,economico,,
 Despesas Municipais na Subfunção Suporte Profilático e Terapêutico,economico,,
-Despesas Municipais na Subfunção Vigilância Epidemiológica,economico,,
-Despesas Municipais na Subfunção Vigilância Sanitária,economico,,
+Despesas Municipais na Subfunção Vigilância Epidemiológica,economico,1,1
+Despesas Municipais na Subfunção Vigilância Sanitária,economico,1,1
 Distorção Idade-Série - Ensino Fundamental,educacao,,
 Distorção Idade-Série - Ensino Fundamental - Rede Estadual,educacao,,
 Distorção Idade-Série - Ensino Fundamental - Rede Municipal,educacao,,
@@ -241,8 +241,8 @@ Empregos Formais,demografico,1,1
 "Empregos Formais da Administração Pública, Defesa e Seguridade Social",economico,,
 "Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,,
 Empregos Formais da Confecção de Artigos do Vestuário e Acessórios,economico,,
-Empregos Formais da Construção,economico,,
-"Empregos Formais da Educação, Saúde Humana e Serviços Sociais",economico,,
+Empregos Formais da Construção,economico,1,1
+"Empregos Formais da Educação, Saúde Humana e Serviços Sociais",economico,1,1
 Empregos Formais da Fabricação de Bebidas,economico,,
 "Empregos Formais da Fabricação de Celulose, Papel e Produtos de Papel",economico,,
 "Empregos Formais da Fabricação de Coque, de Produtos Derivados do Petróleo e de Biocombustíveis",economico,,
@@ -263,7 +263,7 @@ Empregos Formais da Fabricação de Produtos de Minerais Não Metálicos,economi
 Empregos Formais da Fabricação de Produtos do Fumo,economico,,
 "Empregos Formais da Fabricação de Veículos Automotores, Reboques e Carrocerias",economico,,
 Empregos Formais da Impressão e Reprodução de Gravações,economico,,
-Empregos Formais da Indústria,economico,,
+Empregos Formais da Indústria,economico,1,1
 "Empregos Formais da Manutenção, Reparação e Instalação de Máquinas e Equipamentos",economico,,
 Empregos Formais da Metalurgia,economico,,
 "Empregos Formais da Preparação de Couros e Fabricação de Artefatos de Couro, Artigos para Viagem e Calçados",economico,,
@@ -291,7 +291,7 @@ Empregos Formais do Comércio Atacadista e Varejista e do Comércio e Reparaçã
 "Empregos Formais do Comércio Varejista, exceto Veículos Automotores e Motocicletas",economico,,
 Empregos Formais do Comércio e Reparação de Veículos Automotores e Motocicletas,economico,,
 Empregos Formais dos Outros Serviços,economico,,
-Empregos Formais dos Serviços,economico,,
+Empregos Formais dos Serviços,economico,1,1
 Energia Elétrica - Nível de Atendimento - Censo Demográfico,economico,,
 Enfermeiros Registrados no COREN/SP,saude,,
 Equinos - Rebanho,agro,,
@@ -578,7 +578,7 @@ Ovos de Galinha - Produção,agro,,
 Ovos de Galinha - Valor da Produção,agro,,
 PIB,economico,,
 PIB (Versão Anterior) [Série interrompida],economico,,
-PIB per Capita,economico,,
+PIB per Capita,economico,1,0
 PIB per Capita (Versão Anterior) [Série interrompida],economico,,
 Palmito - Produção,agro,,
 Palmito - Valor da Produção,agro,,
@@ -600,7 +600,7 @@ Participação dos Empregos Formais dos Serviços no Total de Empregos Formais,e
 Participação dos Serviços no Total do Valor Adicionado,economico,,
 Participação dos Serviços no Total do Valor Adicionado (Versão Anterior) [Série interrompida],economico,,
 Participação nas Exportações do Estado,economico,,
-Participação no PIB do Estado,economico,,
+Participação no PIB do Estado,economico,1,0
 Participação no PIB do Estado (Versão Anterior) [Série interrompida],economico,,
 Partos Cesáreos,saude,,
 Pera - Produção,agro,,
@@ -695,7 +695,7 @@ Pêssego - Valor da Produção,agro,,
 Pêssego - Área Colhida,agro,,
 Razão de Sexos,demografico,,
 Receita Municipal - Demais Transferências Correntes,economico,,
-Receita Municipal - IRRF,economico,,
+Receita Municipal - IRRF,economico,1,1
 Receita Municipal Patrimonial,economico,,
 Receita Municipal Própria,economico,,
 Receita Municipal de Atividades Diversas,economico,,
@@ -717,7 +717,7 @@ Receitas Municipais com Alienação de Bens,economico,,
 Receitas Municipais com Amortização de Empréstimos,economico,,
 Receitas Municipais com Operações de Crédito,economico,,
 Renda Domiciliar per Capita Média dos Domicílios Particulares Permanentes - PNAD,economico,,
-Renda per Capita - Censo Demográfico,economico,,
+Renda per Capita - Censo Demográfico,economico,1,0
 Rendimento Médio Mensal das Pessoas Responsáveis pelos Domicílios Particulares Permanentes - Censo Demográfico,economico,,
 Rendimento Médio do Total de Empregos Formais,economico,,
 "Rendimento Médio dos Empregos Formais da Agricultura, Pecuária, Produção Florestal, Pesca e Aquicultura",economico,,
@@ -832,7 +832,7 @@ Taxa de Reprovação do Ensino Médio - Rede Pública,educacao,,
 Tomate - Produção,agro,,
 Tomate - Valor da Produção,agro,,
 Tomate - Área Colhida,agro,,
-Total da Receita Municipal,economico,,
+Total da Receita Municipal,economico,1,1
 Total da Receita Municipal com Transferências de Capital,economico,,
 Total da Receita Municipal por Transferências Correntes da União [Série interrompida],economico,,
 Total da Receita Municipal por Transferências Correntes do Estado [Série interrompida],economico,,
@@ -840,7 +840,7 @@ Total da Receita Tributária Municipal,economico,,
 Total de Arrecadação Municipal de Taxas,economico,,
 Total de Arrecadação de Impostos Municipais,economico,,
 Total de Deduções da Receita Municipal Corrente [Série interrompida],economico,,
-Total de Despesas Municipais,economico,,
+Total de Despesas Municipais,economico,1,1
 Total de Despesas Municipais - Administração,economico,,
 Total de Despesas Municipais - Agricultura e Organização Agrária,economico,,
 Total de Despesas Municipais - Assistência Social,economico,,
@@ -957,18 +957,18 @@ Valor da Transformação Industrial – Produtos farmoquímicos e farmacêuticos
 Valor da Transformação Industrial – Produtos químicos,economico,,
 Valor da Transformação Industrial – Vestuário e acessórios,economico,,
 "Valor da Transformação Industrial – Veículos automotores, reboques e carrocerias",economico,,
-Valor das Exportações,economico,,
-Valor das Importações,economico,,
+Valor das Exportações,economico,1,1
+Valor das Importações,economico,1,1
 Área,demografico,,
 Índice Paulista de Responsabilidade Social - IPRS - Dimensão Escolaridade,educacao,,
 Índice Paulista de Responsabilidade Social - IPRS - Dimensão Longevidade,demografico,,
-Índice Paulista de Responsabilidade Social - IPRS - Dimensão Riqueza,economico,,
+Índice Paulista de Responsabilidade Social - IPRS - Dimensão Riqueza,economico,1,0
 Índice Paulista de Responsabilidade Social - IPRS - Grupo,demografico,,
 Índice de Desenvolvimento Humano Municipal - IDHM,demografico,1,0
 Índice de Desenvolvimento Humano Municipal - IDHM - Ranking dos Municípios,demografico,1,0
-Índice de Desenvolvimento Humano Municipal - IDHM Educação,economico,,
+Índice de Desenvolvimento Humano Municipal - IDHM Educação,economico,1,0
 Índice de Desenvolvimento Humano Municipal - IDHM Longevidade,demografico,1,0
-Índice de Desenvolvimento Humano Municipal - IDHM Renda,economico,,
+Índice de Desenvolvimento Humano Municipal - IDHM Renda,economico,1,0
 Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Estadual,educacao,1,0
 Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Municipal,educacao,1,0
 Índice de Desenvolvimento da Educação Básica (IDEB) - Ensino Fundamental - Anos Finais - Rede Pública,educacao,1,0
@@ -979,8 +979,8 @@ Valor das Importações,economico,,
 Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Fundamental - 9º ano,educacao,1,0
 Índice de Desenvolvimento da Educação do Estado de São Paulo (Idesp) - Ensino Médio,educacao,1,0
 Índice de Envelhecimento,demografico,1,0
-Índice de Gini do Rendimento Domiciliar Total dos Domicílios Particulares Permanentes - PNAD,economico,,
-Índice de Participação dos Municípios no ICMS,economico,,
+Índice de Gini do Rendimento Domiciliar Total dos Domicílios Particulares Permanentes - PNAD,economico,1,0
+Índice de Participação dos Municípios no ICMS,economico,1,0
 Óbitos Femininos de 15 a 49 Anos,seguranca,,
 Óbitos Fetais Mais Óbitos de Menores de 7 Dias,seguranca,,
 Óbitos Gerais (por local de residência),seguranca,,
