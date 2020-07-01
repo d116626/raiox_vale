@@ -656,8 +656,8 @@ População Parda - Censo Demográfico,demografico,1,1,0
 População Preta - Censo Demográfico,demografico,1,1,0
 População Rural,demografico,1,1,0
 População Urbana,demografico,1,1,0
-População com 60 Anos e Mais,demografico,1,1,0
-População com Menos de 15 Anos,demografico,,,
+População com 60 Anos e Mais,demografico,1,0,0
+População com Menos de 15 Anos,demografico,1,0,0
 População de 0 a 3 Anos,demografico,,,
 População de 0 a 4 Anos,demografico,,,
 População de 10 a 14 Anos,demografico,,,
